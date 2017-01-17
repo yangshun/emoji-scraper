@@ -1,0 +1,33 @@
+{
+  "name": "emoji-scraper",
+  "version": "0.1.0",
+  "description": "Scrapes emojis from unicode.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangshun/emoji-scraper.git"
+  },
+  "author": "Tay Yang Shun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangshun/emoji-scraper/issues"
+  },
+  "homepage": "https://github.com/yangshun/emoji-scraper#readme",
+  "dependencies": {
+    "tinyreq": "^3.2.0"
+  },
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8",
+    "lodash": "^4.17.4",
+    "request": "^2.79.0",
+    "run-sequence": "^1.2.2",
+    "through2": "^2.0.3",
+    "vinyl": "^2.0.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

@@ -1,0 +1,11269 @@
+{
+  "😀": {
+    "char": "😀",
+    "keywords": [
+      "face",
+      "grin"
+    ]
+  },
+  "😁": {
+    "char": "😁",
+    "keywords": [
+      "eye",
+      "face",
+      "grin",
+      "smile"
+    ]
+  },
+  "😂": {
+    "char": "😂",
+    "keywords": [
+      "face",
+      "joy",
+      "laugh",
+      "tear"
+    ]
+  },
+  "🤣": {
+    "char": "🤣",
+    "keywords": [
+      "face",
+      "floor",
+      "laugh",
+      "rolling"
+    ]
+  },
+  "😃": {
+    "char": "😃",
+    "keywords": [
+      "face",
+      "mouth",
+      "open",
+      "smile"
+    ]
+  },
+  "😄": {
+    "char": "😄",
+    "keywords": [
+      "eye",
+      "face",
+      "mouth",
+      "open",
+      "smile"
+    ]
+  },
+  "😅": {
+    "char": "😅",
+    "keywords": [
+      "cold",
+      "face",
+      "open",
+      "smile",
+      "sweat"
+    ]
+  },
+  "😆": {
+    "char": "😆",
+    "keywords": [
+      "face",
+      "laugh",
+      "mouth",
+      "open",
+      "satisfied",
+      "smile"
+    ]
+  },
+  "😉": {
+    "char": "😉",
+    "keywords": [
+      "face",
+      "wink"
+    ]
+  },
+  "😊": {
+    "char": "😊",
+    "keywords": [
+      "blush",
+      "eye",
+      "face",
+      "smile"
+    ]
+  },
+  "😋": {
+    "char": "😋",
+    "keywords": [
+      "delicious",
+      "face",
+      "savouring",
+      "smile",
+      "um",
+      "yum"
+    ]
+  },
+  "😎": {
+    "char": "😎",
+    "keywords": [
+      "bright",
+      "cool",
+      "eye",
+      "eyewear",
+      "face",
+      "glasses",
+      "smile",
+      "sun",
+      "sunglasses"
+    ]
+  },
+  "😍": {
+    "char": "😍",
+    "keywords": [
+      "eye",
+      "face",
+      "love",
+      "smile"
+    ]
+  },
+  "😘": {
+    "char": "😘",
+    "keywords": [
+      "face",
+      "kiss"
+    ]
+  },
+  "😗": {
+    "char": "😗",
+    "keywords": [
+      "face",
+      "kiss"
+    ]
+  },
+  "😙": {
+    "char": "😙",
+    "keywords": [
+      "eye",
+      "face",
+      "kiss",
+      "smile"
+    ]
+  },
+  "😚": {
+    "char": "😚",
+    "keywords": [
+      "closed",
+      "eye",
+      "face",
+      "kiss"
+    ]
+  },
+  "☺": {
+    "char": "☺",
+    "keywords": [
+      "face",
+      "outlined",
+      "relaxed",
+      "smile"
+    ]
+  },
+  "🙂": {
+    "char": "🙂",
+    "keywords": [
+      "face",
+      "smile"
+    ]
+  },
+  "🤗": {
+    "char": "🤗",
+    "keywords": [
+      "face",
+      "hug",
+      "hugging"
+    ]
+  },
+  "🤔": {
+    "char": "🤔",
+    "keywords": [
+      "face",
+      "thinking"
+    ]
+  },
+  "😐": {
+    "char": "😐",
+    "keywords": [
+      "deadpan",
+      "face",
+      "neutral"
+    ]
+  },
+  "😑": {
+    "char": "😑",
+    "keywords": [
+      "expressionless",
+      "face",
+      "inexpressive",
+      "unexpressive"
+    ]
+  },
+  "😶": {
+    "char": "😶",
+    "keywords": [
+      "face",
+      "mouth",
+      "quiet",
+      "silent"
+    ]
+  },
+  "🙄": {
+    "char": "🙄",
+    "keywords": [
+      "eyes",
+      "face",
+      "rolling"
+    ]
+  },
+  "😏": {
+    "char": "😏",
+    "keywords": [
+      "face",
+      "smirk"
+    ]
+  },
+  "😣": {
+    "char": "😣",
+    "keywords": [
+      "face",
+      "persevere"
+    ]
+  },
+  "😥": {
+    "char": "😥",
+    "keywords": [
+      "disappointed",
+      "face",
+      "relieved",
+      "whew"
+    ]
+  },
+  "😮": {
+    "char": "😮",
+    "keywords": [
+      "face",
+      "mouth",
+      "open",
+      "sympathy"
+    ]
+  },
+  "🤐": {
+    "char": "🤐",
+    "keywords": [
+      "face",
+      "mouth",
+      "zipper"
+    ]
+  },
+  "😯": {
+    "char": "😯",
+    "keywords": [
+      "face",
+      "hushed",
+      "stunned",
+      "surprised"
+    ]
+  },
+  "😪": {
+    "char": "😪",
+    "keywords": [
+      "face",
+      "sleep"
+    ]
+  },
+  "😫": {
+    "char": "😫",
+    "keywords": [
+      "face",
+      "tired"
+    ]
+  },
+  "😴": {
+    "char": "😴",
+    "keywords": [
+      "face",
+      "sleep",
+      "zzz"
+    ]
+  },
+  "😌": {
+    "char": "😌",
+    "keywords": [
+      "face",
+      "relieved"
+    ]
+  },
+  "🤓": {
+    "char": "🤓",
+    "keywords": [
+      "face",
+      "geek",
+      "nerd"
+    ]
+  },
+  "😛": {
+    "char": "😛",
+    "keywords": [
+      "face",
+      "tongue"
+    ]
+  },
+  "😜": {
+    "char": "😜",
+    "keywords": [
+      "eye",
+      "face",
+      "joke",
+      "tongue",
+      "wink"
+    ]
+  },
+  "😝": {
+    "char": "😝",
+    "keywords": [
+      "eye",
+      "face",
+      "horrible",
+      "taste",
+      "tongue"
+    ]
+  },
+  "🤤": {
+    "char": "🤤",
+    "keywords": [
+      "drooling",
+      "face"
+    ]
+  },
+  "😒": {
+    "char": "😒",
+    "keywords": [
+      "face",
+      "unamused",
+      "unhappy"
+    ]
+  },
+  "😓": {
+    "char": "😓",
+    "keywords": [
+      "cold",
+      "face",
+      "sweat"
+    ]
+  },
+  "😔": {
+    "char": "😔",
+    "keywords": [
+      "dejected",
+      "face",
+      "pensive"
+    ]
+  },
+  "😕": {
+    "char": "😕",
+    "keywords": [
+      "confused",
+      "face"
+    ]
+  },
+  "🙃": {
+    "char": "🙃",
+    "keywords": [
+      "face",
+      "upside-down"
+    ]
+  },
+  "🤑": {
+    "char": "🤑",
+    "keywords": [
+      "face",
+      "money",
+      "mouth"
+    ]
+  },
+  "😲": {
+    "char": "😲",
+    "keywords": [
+      "astonished",
+      "face",
+      "shocked",
+      "totally"
+    ]
+  },
+  "☹": {
+    "char": "☹",
+    "keywords": [
+      "face",
+      "frown"
+    ]
+  },
+  "🙁": {
+    "char": "🙁",
+    "keywords": [
+      "face",
+      "frown"
+    ]
+  },
+  "😖": {
+    "char": "😖",
+    "keywords": [
+      "confounded",
+      "face"
+    ]
+  },
+  "😞": {
+    "char": "😞",
+    "keywords": [
+      "disappointed",
+      "face"
+    ]
+  },
+  "😟": {
+    "char": "😟",
+    "keywords": [
+      "face",
+      "worried"
+    ]
+  },
+  "😤": {
+    "char": "😤",
+    "keywords": [
+      "face",
+      "triumph",
+      "won"
+    ]
+  },
+  "😢": {
+    "char": "😢",
+    "keywords": [
+      "cry",
+      "face",
+      "sad",
+      "tear"
+    ]
+  },
+  "😭": {
+    "char": "😭",
+    "keywords": [
+      "cry",
+      "face",
+      "sad",
+      "sob",
+      "tear"
+    ]
+  },
+  "😦": {
+    "char": "😦",
+    "keywords": [
+      "face",
+      "frown",
+      "mouth",
+      "open"
+    ]
+  },
+  "😧": {
+    "char": "😧",
+    "keywords": [
+      "anguished",
+      "face"
+    ]
+  },
+  "😨": {
+    "char": "😨",
+    "keywords": [
+      "face",
+      "fear",
+      "fearful",
+      "scared"
+    ]
+  },
+  "😩": {
+    "char": "😩",
+    "keywords": [
+      "face",
+      "tired",
+      "weary"
+    ]
+  },
+  "😬": {
+    "char": "😬",
+    "keywords": [
+      "face",
+      "grimace"
+    ]
+  },
+  "😰": {
+    "char": "😰",
+    "keywords": [
+      "blue",
+      "cold",
+      "face",
+      "mouth",
+      "open",
+      "rushed",
+      "sweat"
+    ]
+  },
+  "😱": {
+    "char": "😱",
+    "keywords": [
+      "face",
+      "fear",
+      "fearful",
+      "munch",
+      "scared",
+      "scream"
+    ]
+  },
+  "😳": {
+    "char": "😳",
+    "keywords": [
+      "dazed",
+      "face",
+      "flushed"
+    ]
+  },
+  "😵": {
+    "char": "😵",
+    "keywords": [
+      "dizzy",
+      "face"
+    ]
+  },
+  "😡": {
+    "char": "😡",
+    "keywords": [
+      "angry",
+      "face",
+      "mad",
+      "pouting",
+      "rage",
+      "red"
+    ]
+  },
+  "😠": {
+    "char": "😠",
+    "keywords": [
+      "angry",
+      "face",
+      "mad"
+    ]
+  },
+  "😇": {
+    "char": "😇",
+    "keywords": [
+      "angel",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "halo",
+      "innocent",
+      "smile"
+    ]
+  },
+  "🤠": {
+    "char": "🤠",
+    "keywords": [
+      "cowboy",
+      "cowgirl",
+      "face",
+      "hat"
+    ]
+  },
+  "🤡": {
+    "char": "🤡",
+    "keywords": [
+      "clown",
+      "face"
+    ]
+  },
+  "🤥": {
+    "char": "🤥",
+    "keywords": [
+      "face",
+      "lie",
+      "pinocchio"
+    ]
+  },
+  "😷": {
+    "char": "😷",
+    "keywords": [
+      "cold",
+      "doctor",
+      "face",
+      "mask",
+      "medicine",
+      "sick"
+    ]
+  },
+  "🤒": {
+    "char": "🤒",
+    "keywords": [
+      "face",
+      "ill",
+      "sick",
+      "thermometer"
+    ]
+  },
+  "🤕": {
+    "char": "🤕",
+    "keywords": [
+      "bandage",
+      "face",
+      "hurt",
+      "injury"
+    ]
+  },
+  "🤢": {
+    "char": "🤢",
+    "keywords": [
+      "face",
+      "nauseated",
+      "vomit"
+    ]
+  },
+  "🤧": {
+    "char": "🤧",
+    "keywords": [
+      "face",
+      "gesundheit",
+      "sneeze"
+    ]
+  },
+  "😈": {
+    "char": "😈",
+    "keywords": [
+      "face",
+      "fairy tale",
+      "fantasy",
+      "horns",
+      "smile"
+    ]
+  },
+  "👿": {
+    "char": "👿",
+    "keywords": [
+      "demon",
+      "devil",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "imp"
+    ]
+  },
+  "👹": {
+    "char": "👹",
+    "keywords": [
+      "creature",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "Japanese",
+      "monster"
+    ]
+  },
+  "👺": {
+    "char": "👺",
+    "keywords": [
+      "creature",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "Japanese",
+      "monster"
+    ]
+  },
+  "💀": {
+    "char": "💀",
+    "keywords": [
+      "death",
+      "face",
+      "fairy tale",
+      "monster"
+    ]
+  },
+  "☠": {
+    "char": "☠",
+    "keywords": [
+      "crossbones",
+      "death",
+      "face",
+      "monster",
+      "skull"
+    ]
+  },
+  "👻": {
+    "char": "👻",
+    "keywords": [
+      "creature",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "monster"
+    ]
+  },
+  "👽": {
+    "char": "👽",
+    "keywords": [
+      "creature",
+      "extraterrestrial",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "monster",
+      "ufo"
+    ]
+  },
+  "👾": {
+    "char": "👾",
+    "keywords": [
+      "alien",
+      "creature",
+      "extraterrestrial",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "monster",
+      "ufo"
+    ]
+  },
+  "🤖": {
+    "char": "🤖",
+    "keywords": [
+      "face",
+      "monster",
+      "robot"
+    ]
+  },
+  "💩": {
+    "char": "💩",
+    "keywords": [
+      "comic",
+      "dung",
+      "face",
+      "monster",
+      "poo",
+      "poop"
+    ]
+  },
+  "😺": {
+    "char": "😺",
+    "keywords": [
+      "cat",
+      "face",
+      "mouth",
+      "open",
+      "smile"
+    ]
+  },
+  "😸": {
+    "char": "😸",
+    "keywords": [
+      "cat",
+      "eye",
+      "face",
+      "grin",
+      "smile"
+    ]
+  },
+  "😹": {
+    "char": "😹",
+    "keywords": [
+      "cat",
+      "face",
+      "joy",
+      "tear"
+    ]
+  },
+  "😻": {
+    "char": "😻",
+    "keywords": [
+      "cat",
+      "eye",
+      "face",
+      "love",
+      "smile"
+    ]
+  },
+  "😼": {
+    "char": "😼",
+    "keywords": [
+      "cat",
+      "face",
+      "ironic",
+      "smile",
+      "wry"
+    ]
+  },
+  "😽": {
+    "char": "😽",
+    "keywords": [
+      "cat",
+      "eye",
+      "face",
+      "kiss"
+    ]
+  },
+  "🙀": {
+    "char": "🙀",
+    "keywords": [
+      "cat",
+      "face",
+      "oh",
+      "surprised",
+      "weary"
+    ]
+  },
+  "😿": {
+    "char": "😿",
+    "keywords": [
+      "cat",
+      "cry",
+      "face",
+      "sad",
+      "tear"
+    ]
+  },
+  "😾": {
+    "char": "😾",
+    "keywords": [
+      "cat",
+      "face",
+      "pouting"
+    ]
+  },
+  "🙈": {
+    "char": "🙈",
+    "keywords": [
+      "evil",
+      "face",
+      "forbidden",
+      "gesture",
+      "monkey",
+      "no",
+      "not",
+      "prohibited",
+      "see"
+    ]
+  },
+  "🙉": {
+    "char": "🙉",
+    "keywords": [
+      "evil",
+      "face",
+      "forbidden",
+      "gesture",
+      "hear",
+      "monkey",
+      "no",
+      "not",
+      "prohibited"
+    ]
+  },
+  "🙊": {
+    "char": "🙊",
+    "keywords": [
+      "evil",
+      "face",
+      "forbidden",
+      "gesture",
+      "monkey",
+      "no",
+      "not",
+      "prohibited",
+      "speak"
+    ]
+  },
+  "👦": {
+    "char": "👦",
+    "keywords": [
+      "boy",
+      "young"
+    ]
+  },
+  "👧": {
+    "char": "👧",
+    "keywords": [
+      "Virgo",
+      "young",
+      "zodiac"
+    ]
+  },
+  "👨": {
+    "char": "👨",
+    "keywords": [
+      "man"
+    ]
+  },
+  "👩": {
+    "char": "👩",
+    "keywords": [
+      "woman"
+    ]
+  },
+  "👴": {
+    "char": "👴",
+    "keywords": [
+      "man",
+      "old"
+    ]
+  },
+  "👵": {
+    "char": "👵",
+    "keywords": [
+      "old",
+      "woman"
+    ]
+  },
+  "👶": {
+    "char": "👶",
+    "keywords": [
+      "baby",
+      "young"
+    ]
+  },
+  "👼": {
+    "char": "👼",
+    "keywords": [
+      "angel",
+      "baby",
+      "face",
+      "fairy tale",
+      "fantasy"
+    ]
+  },
+  "👨‍⚕️": {
+    "char": "👨‍⚕️",
+    "keywords": [
+      "doctor",
+      "healthcare",
+      "man",
+      "nurse",
+      "therapist"
+    ]
+  },
+  "👩‍⚕️": {
+    "char": "👩‍⚕️",
+    "keywords": [
+      "doctor",
+      "healthcare",
+      "nurse",
+      "therapist",
+      "woman"
+    ]
+  },
+  "👨‍🎓": {
+    "char": "👨‍🎓",
+    "keywords": [
+      "graduate",
+      "man",
+      "student"
+    ]
+  },
+  "👩‍🎓": {
+    "char": "👩‍🎓",
+    "keywords": [
+      "graduate",
+      "student",
+      "woman"
+    ]
+  },
+  "👨‍🏫": {
+    "char": "👨‍🏫",
+    "keywords": [
+      "instructor",
+      "man",
+      "professor",
+      "teacher"
+    ]
+  },
+  "👩‍🏫": {
+    "char": "👩‍🏫",
+    "keywords": [
+      "instructor",
+      "professor",
+      "teacher",
+      "woman"
+    ]
+  },
+  "👨‍⚖️": {
+    "char": "👨‍⚖️",
+    "keywords": [
+      "justice",
+      "man",
+      "scales"
+    ]
+  },
+  "👩‍⚖️": {
+    "char": "👩‍⚖️",
+    "keywords": [
+      "judge",
+      "scales",
+      "woman"
+    ]
+  },
+  "👨‍🌾": {
+    "char": "👨‍🌾",
+    "keywords": [
+      "farmer",
+      "gardener",
+      "man",
+      "rancher"
+    ]
+  },
+  "👩‍🌾": {
+    "char": "👩‍🌾",
+    "keywords": [
+      "farmer",
+      "gardener",
+      "rancher",
+      "woman"
+    ]
+  },
+  "👨‍🍳": {
+    "char": "👨‍🍳",
+    "keywords": [
+      "chef",
+      "cook",
+      "man"
+    ]
+  },
+  "👩‍🍳": {
+    "char": "👩‍🍳",
+    "keywords": [
+      "chef",
+      "cook",
+      "woman"
+    ]
+  },
+  "👨‍🔧": {
+    "char": "👨‍🔧",
+    "keywords": [
+      "electrician",
+      "man",
+      "mechanic",
+      "plumber",
+      "tradesperson"
+    ]
+  },
+  "👩‍🔧": {
+    "char": "👩‍🔧",
+    "keywords": [
+      "electrician",
+      "mechanic",
+      "plumber",
+      "tradesperson",
+      "woman"
+    ]
+  },
+  "👨‍🏭": {
+    "char": "👨‍🏭",
+    "keywords": [
+      "assembly",
+      "factory",
+      "industrial",
+      "man",
+      "worker"
+    ]
+  },
+  "👩‍🏭": {
+    "char": "👩‍🏭",
+    "keywords": [
+      "assembly",
+      "factory",
+      "industrial",
+      "woman",
+      "worker"
+    ]
+  },
+  "👨‍💼": {
+    "char": "👨‍💼",
+    "keywords": [
+      "architect",
+      "business",
+      "man",
+      "manager",
+      "office",
+      "white-collar"
+    ]
+  },
+  "👩‍💼": {
+    "char": "👩‍💼",
+    "keywords": [
+      "architect",
+      "business",
+      "manager",
+      "office",
+      "white-collar",
+      "woman"
+    ]
+  },
+  "👨‍🔬": {
+    "char": "👨‍🔬",
+    "keywords": [
+      "biologist",
+      "chemist",
+      "engineer",
+      "man",
+      "mathematician",
+      "physicist",
+      "scientist"
+    ]
+  },
+  "👩‍🔬": {
+    "char": "👩‍🔬",
+    "keywords": [
+      "biologist",
+      "chemist",
+      "engineer",
+      "mathematician",
+      "physicist",
+      "scientist",
+      "woman"
+    ]
+  },
+  "👨‍💻": {
+    "char": "👨‍💻",
+    "keywords": [
+      "coder",
+      "developer",
+      "inventor",
+      "man",
+      "software",
+      "technologist"
+    ]
+  },
+  "👩‍💻": {
+    "char": "👩‍💻",
+    "keywords": [
+      "coder",
+      "developer",
+      "inventor",
+      "software",
+      "technologist",
+      "woman"
+    ]
+  },
+  "👨‍🎤": {
+    "char": "👨‍🎤",
+    "keywords": [
+      "actor",
+      "entertainer",
+      "man",
+      "rock",
+      "singer",
+      "star"
+    ]
+  },
+  "👩‍🎤": {
+    "char": "👩‍🎤",
+    "keywords": [
+      "actor",
+      "entertainer",
+      "rock",
+      "singer",
+      "star",
+      "woman"
+    ]
+  },
+  "👨‍🎨": {
+    "char": "👨‍🎨",
+    "keywords": [
+      "artist",
+      "man",
+      "palette"
+    ]
+  },
+  "👩‍🎨": {
+    "char": "👩‍🎨",
+    "keywords": [
+      "artist",
+      "palette",
+      "woman"
+    ]
+  },
+  "👨‍✈️": {
+    "char": "👨‍✈️",
+    "keywords": [
+      "man",
+      "pilot",
+      "plane"
+    ]
+  },
+  "👩‍✈️": {
+    "char": "👩‍✈️",
+    "keywords": [
+      "pilot",
+      "plane",
+      "woman"
+    ]
+  },
+  "👨‍🚀": {
+    "char": "👨‍🚀",
+    "keywords": [
+      "astronaut",
+      "man",
+      "rocket"
+    ]
+  },
+  "👩‍🚀": {
+    "char": "👩‍🚀",
+    "keywords": [
+      "astronaut",
+      "rocket",
+      "woman"
+    ]
+  },
+  "👨‍🚒": {
+    "char": "👨‍🚒",
+    "keywords": [
+      "firefighter",
+      "firetruck",
+      "man"
+    ]
+  },
+  "👩‍🚒": {
+    "char": "👩‍🚒",
+    "keywords": [
+      "firefighter",
+      "firetruck",
+      "woman"
+    ]
+  },
+  "👮": {
+    "char": "👮",
+    "keywords": [
+      "cop",
+      "officer",
+      "police"
+    ]
+  },
+  "👮‍♂️": {
+    "char": "👮‍♂️",
+    "keywords": [
+      "cop",
+      "man",
+      "officer",
+      "police"
+    ]
+  },
+  "👮‍♀️": {
+    "char": "👮‍♀️",
+    "keywords": [
+      "cop",
+      "officer",
+      "police",
+      "woman"
+    ]
+  },
+  "🕵": {
+    "char": "🕵",
+    "keywords": [
+      "detective",
+      "sleuth",
+      "spy"
+    ]
+  },
+  "🕵️‍♂️": {
+    "char": "🕵️‍♂️",
+    "keywords": [
+      "detective",
+      "man",
+      "sleuth",
+      "spy"
+    ]
+  },
+  "🕵️‍♀️": {
+    "char": "🕵️‍♀️",
+    "keywords": [
+      "detective",
+      "sleuth",
+      "spy",
+      "woman"
+    ]
+  },
+  "💂": {
+    "char": "💂",
+    "keywords": [
+      "guard"
+    ]
+  },
+  "💂‍♂️": {
+    "char": "💂‍♂️",
+    "keywords": [
+      "guard",
+      "man"
+    ]
+  },
+  "💂‍♀️": {
+    "char": "💂‍♀️",
+    "keywords": [
+      "guard",
+      "woman"
+    ]
+  },
+  "👷": {
+    "char": "👷",
+    "keywords": [
+      "construction",
+      "hat",
+      "worker"
+    ]
+  },
+  "👷‍♂️": {
+    "char": "👷‍♂️",
+    "keywords": [
+      "construction",
+      "man",
+      "worker"
+    ]
+  },
+  "👷‍♀️": {
+    "char": "👷‍♀️",
+    "keywords": [
+      "construction",
+      "woman",
+      "worker"
+    ]
+  },
+  "👳": {
+    "char": "👳",
+    "keywords": [
+      "turban"
+    ]
+  },
+  "👳‍♂️": {
+    "char": "👳‍♂️",
+    "keywords": [
+      "man",
+      "turban"
+    ]
+  },
+  "👳‍♀️": {
+    "char": "👳‍♀️",
+    "keywords": [
+      "turban",
+      "woman"
+    ]
+  },
+  "👱": {
+    "char": "👱",
+    "keywords": [
+      "blond"
+    ]
+  },
+  "👱‍♂️": {
+    "char": "👱‍♂️",
+    "keywords": [
+      "blond",
+      "man"
+    ]
+  },
+  "👱‍♀️": {
+    "char": "👱‍♀️",
+    "keywords": [
+      "blonde",
+      "woman"
+    ]
+  },
+  "🎅": {
+    "char": "🎅",
+    "keywords": [
+      "celebration",
+      "Christmas",
+      "claus",
+      "father",
+      "santa"
+    ]
+  },
+  "🤶": {
+    "char": "🤶",
+    "keywords": [
+      "celebration",
+      "Christmas",
+      "claus",
+      "mother",
+      "Mrs."
+    ]
+  },
+  "👸": {
+    "char": "👸",
+    "keywords": [
+      "fairy tale",
+      "fantasy"
+    ]
+  },
+  "🤴": {
+    "char": "🤴",
+    "keywords": [
+      "prince"
+    ]
+  },
+  "👰": {
+    "char": "👰",
+    "keywords": [
+      "bride",
+      "veil",
+      "wedding"
+    ]
+  },
+  "🤵": {
+    "char": "🤵",
+    "keywords": [
+      "groom",
+      "man",
+      "tuxedo"
+    ]
+  },
+  "🤰": {
+    "char": "🤰",
+    "keywords": [
+      "pregnant",
+      "woman"
+    ]
+  },
+  "👲": {
+    "char": "👲",
+    "keywords": [
+      "gua pi mao",
+      "hat",
+      "man"
+    ]
+  },
+  "🙍": {
+    "char": "🙍",
+    "keywords": [
+      "frown",
+      "gesture"
+    ]
+  },
+  "🙍‍♂️": {
+    "char": "🙍‍♂️",
+    "keywords": [
+      "frowning",
+      "gesture",
+      "man"
+    ]
+  },
+  "🙍‍♀️": {
+    "char": "🙍‍♀️",
+    "keywords": [
+      "frowning",
+      "gesture",
+      "woman"
+    ]
+  },
+  "🙎": {
+    "char": "🙎",
+    "keywords": [
+      "gesture",
+      "pouting"
+    ]
+  },
+  "🙎‍♂️": {
+    "char": "🙎‍♂️",
+    "keywords": [
+      "gesture",
+      "man",
+      "pouting"
+    ]
+  },
+  "🙎‍♀️": {
+    "char": "🙎‍♀️",
+    "keywords": [
+      "gesture",
+      "pouting",
+      "woman"
+    ]
+  },
+  "🙅": {
+    "char": "🙅",
+    "keywords": [
+      "forbidden",
+      "gesture",
+      "hand",
+      "no",
+      "not",
+      "prohibited"
+    ]
+  },
+  "🙅‍♂️": {
+    "char": "🙅‍♂️",
+    "keywords": [
+      "forbidden",
+      "gesture",
+      "hand",
+      "man",
+      "no",
+      "prohibited"
+    ]
+  },
+  "🙅‍♀️": {
+    "char": "🙅‍♀️",
+    "keywords": [
+      "forbidden",
+      "gesture",
+      "hand",
+      "no",
+      "prohibited",
+      "woman"
+    ]
+  },
+  "🙆": {
+    "char": "🙆",
+    "keywords": [
+      "gesture",
+      "hand",
+      "OK"
+    ]
+  },
+  "🙆‍♂️": {
+    "char": "🙆‍♂️",
+    "keywords": [
+      "gesture",
+      "hand",
+      "man",
+      "OK"
+    ]
+  },
+  "🙆‍♀️": {
+    "char": "🙆‍♀️",
+    "keywords": [
+      "gesture",
+      "hand",
+      "OK",
+      "woman"
+    ]
+  },
+  "💁": {
+    "char": "💁",
+    "keywords": [
+      "hand",
+      "help",
+      "information",
+      "sassy",
+      "tipping"
+    ]
+  },
+  "💁‍♂️": {
+    "char": "💁‍♂️",
+    "keywords": [
+      "man",
+      "sassy",
+      "tipping hand"
+    ]
+  },
+  "💁‍♀️": {
+    "char": "💁‍♀️",
+    "keywords": [
+      "sassy",
+      "tipping hand",
+      "woman"
+    ]
+  },
+  "🙋": {
+    "char": "🙋",
+    "keywords": [
+      "gesture",
+      "hand",
+      "happy",
+      "raised"
+    ]
+  },
+  "🙋‍♂️": {
+    "char": "🙋‍♂️",
+    "keywords": [
+      "gesture",
+      "man",
+      "raising hand"
+    ]
+  },
+  "🙋‍♀️": {
+    "char": "🙋‍♀️",
+    "keywords": [
+      "gesture",
+      "raising hand",
+      "woman"
+    ]
+  },
+  "🙇": {
+    "char": "🙇",
+    "keywords": [
+      "apology",
+      "bow",
+      "gesture",
+      "sorry"
+    ]
+  },
+  "🙇‍♂️": {
+    "char": "🙇‍♂️",
+    "keywords": [
+      "apology",
+      "bowing",
+      "favor",
+      "gesture",
+      "man",
+      "sorry"
+    ]
+  },
+  "🙇‍♀️": {
+    "char": "🙇‍♀️",
+    "keywords": [
+      "apology",
+      "bowing",
+      "favor",
+      "gesture",
+      "sorry",
+      "woman"
+    ]
+  },
+  "🤦": {
+    "char": "🤦",
+    "keywords": [
+      "disbelief",
+      "exasperation",
+      "face",
+      "palm"
+    ]
+  },
+  "🤦‍♂️": {
+    "char": "🤦‍♂️",
+    "keywords": [
+      "disbelief",
+      "exasperation",
+      "facepalm",
+      "man"
+    ]
+  },
+  "🤦‍♀️": {
+    "char": "🤦‍♀️",
+    "keywords": [
+      "disbelief",
+      "exasperation",
+      "facepalm",
+      "woman"
+    ]
+  },
+  "🤷": {
+    "char": "🤷",
+    "keywords": [
+      "doubt",
+      "ignorance",
+      "indifference",
+      "shrug"
+    ]
+  },
+  "🤷‍♂️": {
+    "char": "🤷‍♂️",
+    "keywords": [
+      "doubt",
+      "ignorance",
+      "indifference",
+      "man",
+      "shrug"
+    ]
+  },
+  "🤷‍♀️": {
+    "char": "🤷‍♀️",
+    "keywords": [
+      "doubt",
+      "ignorance",
+      "indifference",
+      "shrug",
+      "woman"
+    ]
+  },
+  "💆": {
+    "char": "💆",
+    "keywords": [
+      "face",
+      "massage",
+      "salon"
+    ]
+  },
+  "💆‍♂️": {
+    "char": "💆‍♂️",
+    "keywords": [
+      "face",
+      "man",
+      "massage"
+    ]
+  },
+  "💆‍♀️": {
+    "char": "💆‍♀️",
+    "keywords": [
+      "face",
+      "massage",
+      "woman"
+    ]
+  },
+  "💇": {
+    "char": "💇",
+    "keywords": [
+      "barber",
+      "beauty",
+      "haircut",
+      "parlor"
+    ]
+  },
+  "💇‍♂️": {
+    "char": "💇‍♂️",
+    "keywords": [
+      "haircut",
+      "man"
+    ]
+  },
+  "💇‍♀️": {
+    "char": "💇‍♀️",
+    "keywords": [
+      "haircut",
+      "woman"
+    ]
+  },
+  "🚶": {
+    "char": "🚶",
+    "keywords": [
+      "hike",
+      "walk",
+      "walking"
+    ]
+  },
+  "🚶‍♂️": {
+    "char": "🚶‍♂️",
+    "keywords": [
+      "hike",
+      "man",
+      "walk"
+    ]
+  },
+  "🚶‍♀️": {
+    "char": "🚶‍♀️",
+    "keywords": [
+      "hike",
+      "walk",
+      "woman"
+    ]
+  },
+  "🏃": {
+    "char": "🏃",
+    "keywords": [
+      "marathon",
+      "running"
+    ]
+  },
+  "🏃‍♂️": {
+    "char": "🏃‍♂️",
+    "keywords": [
+      "man",
+      "marathon",
+      "racing",
+      "running"
+    ]
+  },
+  "🏃‍♀️": {
+    "char": "🏃‍♀️",
+    "keywords": [
+      "marathon",
+      "racing",
+      "running",
+      "woman"
+    ]
+  },
+  "💃": {
+    "char": "💃",
+    "keywords": [
+      "dancing",
+      "woman"
+    ]
+  },
+  "🕺": {
+    "char": "🕺",
+    "keywords": [
+      "dance",
+      "man"
+    ]
+  },
+  "👯": {
+    "char": "👯",
+    "keywords": [
+      "bunny ear",
+      "dancer",
+      "partying"
+    ]
+  },
+  "👯‍♂️": {
+    "char": "👯‍♂️",
+    "keywords": [
+      "bunny ear",
+      "dancer",
+      "men",
+      "partying"
+    ]
+  },
+  "👯‍♀️": {
+    "char": "👯‍♀️",
+    "keywords": [
+      "bunny ear",
+      "dancer",
+      "partying",
+      "women"
+    ]
+  },
+  "🕴": {
+    "char": "🕴",
+    "keywords": [
+      "business",
+      "man",
+      "suit"
+    ]
+  },
+  "🗣": {
+    "char": "🗣",
+    "keywords": [
+      "face",
+      "head",
+      "silhouette",
+      "speak",
+      "speaking"
+    ]
+  },
+  "👤": {
+    "char": "👤",
+    "keywords": [
+      "bust",
+      "silhouette"
+    ]
+  },
+  "👥": {
+    "char": "👥",
+    "keywords": [
+      "bust",
+      "silhouette"
+    ]
+  },
+  "🤺": {
+    "char": "🤺",
+    "keywords": [
+      "fencer",
+      "fencing",
+      "sword"
+    ]
+  },
+  "🏇": {
+    "char": "🏇",
+    "keywords": [
+      "horse",
+      "jockey",
+      "racehorse",
+      "racing"
+    ]
+  },
+  "⛷": {
+    "char": "⛷",
+    "keywords": [
+      "ski",
+      "snow"
+    ]
+  },
+  "🏂": {
+    "char": "🏂",
+    "keywords": [
+      "ski",
+      "snow",
+      "snowboard"
+    ]
+  },
+  "🏌": {
+    "char": "🏌",
+    "keywords": [
+      "ball",
+      "golf"
+    ]
+  },
+  "🏌️‍♂️": {
+    "char": "🏌️‍♂️",
+    "keywords": [
+      "golf",
+      "man"
+    ]
+  },
+  "🏌️‍♀️": {
+    "char": "🏌️‍♀️",
+    "keywords": [
+      "golf",
+      "woman"
+    ]
+  },
+  "🏄": {
+    "char": "🏄",
+    "keywords": [
+      "surfing"
+    ]
+  },
+  "🏄‍♂️": {
+    "char": "🏄‍♂️",
+    "keywords": [
+      "man",
+      "surfing"
+    ]
+  },
+  "🏄‍♀️": {
+    "char": "🏄‍♀️",
+    "keywords": [
+      "surfing",
+      "woman"
+    ]
+  },
+  "🚣": {
+    "char": "🚣",
+    "keywords": [
+      "boat",
+      "rowboat"
+    ]
+  },
+  "🚣‍♂️": {
+    "char": "🚣‍♂️",
+    "keywords": [
+      "boat",
+      "man",
+      "rowboat"
+    ]
+  },
+  "🚣‍♀️": {
+    "char": "🚣‍♀️",
+    "keywords": [
+      "boat",
+      "rowboat",
+      "woman"
+    ]
+  },
+  "🏊": {
+    "char": "🏊",
+    "keywords": [
+      "swim"
+    ]
+  },
+  "🏊‍♂️": {
+    "char": "🏊‍♂️",
+    "keywords": [
+      "man",
+      "swim"
+    ]
+  },
+  "🏊‍♀️": {
+    "char": "🏊‍♀️",
+    "keywords": [
+      "swim",
+      "woman"
+    ]
+  },
+  "⛹": {
+    "char": "⛹",
+    "keywords": [
+      "ball"
+    ]
+  },
+  "⛹️‍♂️": {
+    "char": "⛹️‍♂️",
+    "keywords": [
+      "ball",
+      "man"
+    ]
+  },
+  "⛹️‍♀️": {
+    "char": "⛹️‍♀️",
+    "keywords": [
+      "ball",
+      "woman"
+    ]
+  },
+  "🏋": {
+    "char": "🏋",
+    "keywords": [
+      "lifter",
+      "weight"
+    ]
+  },
+  "🏋️‍♂️": {
+    "char": "🏋️‍♂️",
+    "keywords": [
+      "man",
+      "weight lifter"
+    ]
+  },
+  "🏋️‍♀️": {
+    "char": "🏋️‍♀️",
+    "keywords": [
+      "weight lifter",
+      "woman"
+    ]
+  },
+  "🚴": {
+    "char": "🚴",
+    "keywords": [
+      "bicycle",
+      "biking",
+      "cyclist"
+    ]
+  },
+  "🚴‍♂️": {
+    "char": "🚴‍♂️",
+    "keywords": [
+      "bicycle",
+      "biking",
+      "cyclist",
+      "man"
+    ]
+  },
+  "🚴‍♀️": {
+    "char": "🚴‍♀️",
+    "keywords": [
+      "bicycle",
+      "biking",
+      "cyclist",
+      "woman"
+    ]
+  },
+  "🚵": {
+    "char": "🚵",
+    "keywords": [
+      "bicycle",
+      "bicyclist",
+      "bike",
+      "cyclist",
+      "mountain"
+    ]
+  },
+  "🚵‍♂️": {
+    "char": "🚵‍♂️",
+    "keywords": [
+      "bicycle",
+      "bike",
+      "cyclist",
+      "man",
+      "mountain"
+    ]
+  },
+  "🚵‍♀️": {
+    "char": "🚵‍♀️",
+    "keywords": [
+      "bicycle",
+      "bike",
+      "biking",
+      "cyclist",
+      "mountain",
+      "woman"
+    ]
+  },
+  "🏎": {
+    "char": "🏎",
+    "keywords": [
+      "car",
+      "racing"
+    ]
+  },
+  "🏍": {
+    "char": "🏍",
+    "keywords": [
+      "racing"
+    ]
+  },
+  "🤸": {
+    "char": "🤸",
+    "keywords": [
+      "cartwheel",
+      "gymnastics"
+    ]
+  },
+  "🤸‍♂️": {
+    "char": "🤸‍♂️",
+    "keywords": [
+      "cartwheel",
+      "gymnastics",
+      "man"
+    ]
+  },
+  "🤸‍♀️": {
+    "char": "🤸‍♀️",
+    "keywords": [
+      "cartwheel",
+      "gymnastics",
+      "woman"
+    ]
+  },
+  "🤼": {
+    "char": "🤼",
+    "keywords": [
+      "wrestle",
+      "wrestler"
+    ]
+  },
+  "🤼‍♂️": {
+    "char": "🤼‍♂️",
+    "keywords": [
+      "men",
+      "wrestle"
+    ]
+  },
+  "🤼‍♀️": {
+    "char": "🤼‍♀️",
+    "keywords": [
+      "women",
+      "wrestle"
+    ]
+  },
+  "🤽": {
+    "char": "🤽",
+    "keywords": [
+      "polo",
+      "water"
+    ]
+  },
+  "🤽‍♂️": {
+    "char": "🤽‍♂️",
+    "keywords": [
+      "man",
+      "water polo"
+    ]
+  },
+  "🤽‍♀️": {
+    "char": "🤽‍♀️",
+    "keywords": [
+      "water polo",
+      "woman"
+    ]
+  },
+  "🤾": {
+    "char": "🤾",
+    "keywords": [
+      "ball",
+      "handball"
+    ]
+  },
+  "🤾‍♂️": {
+    "char": "🤾‍♂️",
+    "keywords": [
+      "handball",
+      "man"
+    ]
+  },
+  "🤾‍♀️": {
+    "char": "🤾‍♀️",
+    "keywords": [
+      "handball",
+      "woman"
+    ]
+  },
+  "🤹": {
+    "char": "🤹",
+    "keywords": [
+      "balance",
+      "juggle",
+      "multitask",
+      "skill"
+    ]
+  },
+  "🤹‍♂️": {
+    "char": "🤹‍♂️",
+    "keywords": [
+      "juggling",
+      "man",
+      "multitask"
+    ]
+  },
+  "🤹‍♀️": {
+    "char": "🤹‍♀️",
+    "keywords": [
+      "juggling",
+      "multitask",
+      "woman"
+    ]
+  },
+  "👫": {
+    "char": "👫",
+    "keywords": [
+      "couple",
+      "hand",
+      "hold",
+      "man",
+      "woman"
+    ]
+  },
+  "👬": {
+    "char": "👬",
+    "keywords": [
+      "couple",
+      "Gemini",
+      "hand",
+      "hold",
+      "man",
+      "twins",
+      "zodiac"
+    ]
+  },
+  "👭": {
+    "char": "👭",
+    "keywords": [
+      "couple",
+      "hand",
+      "hold",
+      "woman"
+    ]
+  },
+  "💏": {
+    "char": "💏",
+    "keywords": [
+      "couple"
+    ]
+  },
+  "👩‍❤️‍💋‍👨": {
+    "char": "👩‍❤️‍💋‍👨",
+    "keywords": [
+      "couple",
+      "man",
+      "woman"
+    ]
+  },
+  "👨‍❤️‍💋‍👨": {
+    "char": "👨‍❤️‍💋‍👨",
+    "keywords": [
+      "couple",
+      "man"
+    ]
+  },
+  "👩‍❤️‍💋‍👩": {
+    "char": "👩‍❤️‍💋‍👩",
+    "keywords": [
+      "couple",
+      "woman"
+    ]
+  },
+  "💑": {
+    "char": "💑",
+    "keywords": [
+      "couple",
+      "love"
+    ]
+  },
+  "👩‍❤️‍👨": {
+    "char": "👩‍❤️‍👨",
+    "keywords": [
+      "couple",
+      "love",
+      "man",
+      "woman"
+    ]
+  },
+  "👨‍❤️‍👨": {
+    "char": "👨‍❤️‍👨",
+    "keywords": [
+      "couple",
+      "love",
+      "man"
+    ]
+  },
+  "👩‍❤️‍👩": {
+    "char": "👩‍❤️‍👩",
+    "keywords": [
+      "couple",
+      "love",
+      "woman"
+    ]
+  },
+  "👪": {
+    "char": "👪",
+    "keywords": [
+      "family"
+    ]
+  },
+  "👨‍👩‍👦": {
+    "char": "👨‍👩‍👦",
+    "keywords": [
+      "boy",
+      "family",
+      "man",
+      "woman"
+    ]
+  },
+  "👨‍👩‍👧": {
+    "char": "👨‍👩‍👧",
+    "keywords": [
+      "family",
+      "girl",
+      "man",
+      "woman"
+    ]
+  },
+  "👨‍👩‍👧‍👦": {
+    "char": "👨‍👩‍👧‍👦",
+    "keywords": [
+      "boy",
+      "family",
+      "girl",
+      "man",
+      "woman"
+    ]
+  },
+  "👨‍👩‍👦‍👦": {
+    "char": "👨‍👩‍👦‍👦",
+    "keywords": [
+      "boy",
+      "family",
+      "man",
+      "woman"
+    ]
+  },
+  "👨‍👩‍👧‍👧": {
+    "char": "👨‍👩‍👧‍👧",
+    "keywords": [
+      "family",
+      "girl",
+      "man",
+      "woman"
+    ]
+  },
+  "👨‍👨‍👦": {
+    "char": "👨‍👨‍👦",
+    "keywords": [
+      "boy",
+      "family",
+      "man"
+    ]
+  },
+  "👨‍👨‍👧": {
+    "char": "👨‍👨‍👧",
+    "keywords": [
+      "family",
+      "girl",
+      "man"
+    ]
+  },
+  "👨‍👨‍👧‍👦": {
+    "char": "👨‍👨‍👧‍👦",
+    "keywords": [
+      "boy",
+      "family",
+      "girl",
+      "man"
+    ]
+  },
+  "👨‍👨‍👦‍👦": {
+    "char": "👨‍👨‍👦‍👦",
+    "keywords": [
+      "boy",
+      "family",
+      "man"
+    ]
+  },
+  "👨‍👨‍👧‍👧": {
+    "char": "👨‍👨‍👧‍👧",
+    "keywords": [
+      "family",
+      "girl",
+      "man"
+    ]
+  },
+  "👩‍👩‍👦": {
+    "char": "👩‍👩‍👦",
+    "keywords": [
+      "boy",
+      "family",
+      "woman"
+    ]
+  },
+  "👩‍👩‍👧": {
+    "char": "👩‍👩‍👧",
+    "keywords": [
+      "family",
+      "girl",
+      "woman"
+    ]
+  },
+  "👩‍👩‍👧‍👦": {
+    "char": "👩‍👩‍👧‍👦",
+    "keywords": [
+      "boy",
+      "family",
+      "girl",
+      "woman"
+    ]
+  },
+  "👩‍👩‍👦‍👦": {
+    "char": "👩‍👩‍👦‍👦",
+    "keywords": [
+      "boy",
+      "family",
+      "woman"
+    ]
+  },
+  "👩‍👩‍👧‍👧": {
+    "char": "👩‍👩‍👧‍👧",
+    "keywords": [
+      "family",
+      "girl",
+      "woman"
+    ]
+  },
+  "👨‍👦": {
+    "char": "👨‍👦",
+    "keywords": [
+      "boy",
+      "family",
+      "man"
+    ]
+  },
+  "👨‍👦‍👦": {
+    "char": "👨‍👦‍👦",
+    "keywords": [
+      "boy",
+      "family",
+      "man"
+    ]
+  },
+  "👨‍👧": {
+    "char": "👨‍👧",
+    "keywords": [
+      "family",
+      "girl",
+      "man"
+    ]
+  },
+  "👨‍👧‍👦": {
+    "char": "👨‍👧‍👦",
+    "keywords": [
+      "boy",
+      "family",
+      "girl",
+      "man"
+    ]
+  },
+  "👨‍👧‍👧": {
+    "char": "👨‍👧‍👧",
+    "keywords": [
+      "family",
+      "girl",
+      "man"
+    ]
+  },
+  "👩‍👦": {
+    "char": "👩‍👦",
+    "keywords": [
+      "boy",
+      "family",
+      "woman"
+    ]
+  },
+  "👩‍👦‍👦": {
+    "char": "👩‍👦‍👦",
+    "keywords": [
+      "boy",
+      "family",
+      "woman"
+    ]
+  },
+  "👩‍👧": {
+    "char": "👩‍👧",
+    "keywords": [
+      "family",
+      "girl",
+      "woman"
+    ]
+  },
+  "👩‍👧‍👦": {
+    "char": "👩‍👧‍👦",
+    "keywords": [
+      "boy",
+      "family",
+      "girl",
+      "woman"
+    ]
+  },
+  "👩‍👧‍👧": {
+    "char": "👩‍👧‍👧",
+    "keywords": [
+      "family",
+      "girl",
+      "woman"
+    ]
+  },
+  "💪": {
+    "char": "💪",
+    "keywords": [
+      "biceps",
+      "comic",
+      "flex",
+      "muscle"
+    ]
+  },
+  "🤳": {
+    "char": "🤳",
+    "keywords": [
+      "camera",
+      "phone",
+      "selfie"
+    ]
+  },
+  "👈": {
+    "char": "👈",
+    "keywords": [
+      "backhand",
+      "finger",
+      "hand",
+      "index",
+      "point"
+    ]
+  },
+  "👉": {
+    "char": "👉",
+    "keywords": [
+      "backhand",
+      "finger",
+      "hand",
+      "index",
+      "point"
+    ]
+  },
+  "☝": {
+    "char": "☝",
+    "keywords": [
+      "finger",
+      "hand",
+      "index",
+      "point",
+      "up"
+    ]
+  },
+  "👆": {
+    "char": "👆",
+    "keywords": [
+      "backhand",
+      "finger",
+      "hand",
+      "index",
+      "point",
+      "up"
+    ]
+  },
+  "🖕": {
+    "char": "🖕",
+    "keywords": [
+      "finger",
+      "hand"
+    ]
+  },
+  "👇": {
+    "char": "👇",
+    "keywords": [
+      "backhand",
+      "down",
+      "finger",
+      "hand",
+      "index",
+      "point"
+    ]
+  },
+  "✌": {
+    "char": "✌",
+    "keywords": [
+      "hand",
+      "v",
+      "victory"
+    ]
+  },
+  "🤞": {
+    "char": "🤞",
+    "keywords": [
+      "cross",
+      "finger",
+      "hand",
+      "luck"
+    ]
+  },
+  "🖖": {
+    "char": "🖖",
+    "keywords": [
+      "finger",
+      "hand",
+      "spock",
+      "vulcan"
+    ]
+  },
+  "🤘": {
+    "char": "🤘",
+    "keywords": [
+      "finger",
+      "hand",
+      "horns",
+      "rock-on"
+    ]
+  },
+  "🤙": {
+    "char": "🤙",
+    "keywords": [
+      "call",
+      "hand"
+    ]
+  },
+  "🖐": {
+    "char": "🖐",
+    "keywords": [
+      "finger",
+      "hand",
+      "splayed"
+    ]
+  },
+  "✋": {
+    "char": "✋",
+    "keywords": [
+      "hand"
+    ]
+  },
+  "👌": {
+    "char": "👌",
+    "keywords": [
+      "hand",
+      "OK"
+    ]
+  },
+  "👍": {
+    "char": "👍",
+    "keywords": [
+      "+1",
+      "hand",
+      "thumb",
+      "up"
+    ]
+  },
+  "👎": {
+    "char": "👎",
+    "keywords": [
+      "-1",
+      "down",
+      "hand",
+      "thumb"
+    ]
+  },
+  "✊": {
+    "char": "✊",
+    "keywords": [
+      "clenched",
+      "fist",
+      "hand",
+      "punch"
+    ]
+  },
+  "👊": {
+    "char": "👊",
+    "keywords": [
+      "clenched",
+      "fist",
+      "hand",
+      "punch"
+    ]
+  },
+  "🤛": {
+    "char": "🤛",
+    "keywords": [
+      "fist",
+      "leftwards"
+    ]
+  },
+  "🤜": {
+    "char": "🤜",
+    "keywords": [
+      "fist",
+      "rightwards"
+    ]
+  },
+  "🤚": {
+    "char": "🤚",
+    "keywords": [
+      "backhand",
+      "raised"
+    ]
+  },
+  "👋": {
+    "char": "👋",
+    "keywords": [
+      "hand",
+      "wave",
+      "waving"
+    ]
+  },
+  "👏": {
+    "char": "👏",
+    "keywords": [
+      "clap",
+      "hand"
+    ]
+  },
+  "✍": {
+    "char": "✍",
+    "keywords": [
+      "hand",
+      "write"
+    ]
+  },
+  "👐": {
+    "char": "👐",
+    "keywords": [
+      "hand",
+      "open"
+    ]
+  },
+  "🙌": {
+    "char": "🙌",
+    "keywords": [
+      "celebration",
+      "gesture",
+      "hand",
+      "hooray",
+      "raised"
+    ]
+  },
+  "🙏": {
+    "char": "🙏",
+    "keywords": [
+      "ask",
+      "bow",
+      "folded",
+      "gesture",
+      "hand",
+      "please",
+      "pray",
+      "thanks"
+    ]
+  },
+  "🤝": {
+    "char": "🤝",
+    "keywords": [
+      "agreement",
+      "hand",
+      "handshake",
+      "meeting",
+      "shake"
+    ]
+  },
+  "💅": {
+    "char": "💅",
+    "keywords": [
+      "care",
+      "cosmetics",
+      "manicure",
+      "nail",
+      "polish"
+    ]
+  },
+  "👂": {
+    "char": "👂",
+    "keywords": [
+      "body"
+    ]
+  },
+  "👃": {
+    "char": "👃",
+    "keywords": [
+      "body"
+    ]
+  },
+  "👣": {
+    "char": "👣",
+    "keywords": [
+      "clothing",
+      "footprint",
+      "print"
+    ]
+  },
+  "👀": {
+    "char": "👀",
+    "keywords": [
+      "eye",
+      "face"
+    ]
+  },
+  "👁": {
+    "char": "👁",
+    "keywords": [
+      "body"
+    ]
+  },
+  "👁️‍🗨️": {
+    "char": "👁️‍🗨️",
+    "keywords": [
+      "eye",
+      "speech bubble",
+      "witness"
+    ]
+  },
+  "👅": {
+    "char": "👅",
+    "keywords": [
+      "body"
+    ]
+  },
+  "👄": {
+    "char": "👄",
+    "keywords": [
+      "lips"
+    ]
+  },
+  "💋": {
+    "char": "💋",
+    "keywords": [
+      "kiss",
+      "lips"
+    ]
+  },
+  "💘": {
+    "char": "💘",
+    "keywords": [
+      "arrow",
+      "cupid"
+    ]
+  },
+  "❤": {
+    "char": "❤",
+    "keywords": [
+      "heart"
+    ]
+  },
+  "💓": {
+    "char": "💓",
+    "keywords": [
+      "beating",
+      "heartbeat",
+      "pulsating"
+    ]
+  },
+  "💔": {
+    "char": "💔",
+    "keywords": [
+      "break",
+      "broken"
+    ]
+  },
+  "💕": {
+    "char": "💕",
+    "keywords": [
+      "love"
+    ]
+  },
+  "💖": {
+    "char": "💖",
+    "keywords": [
+      "excited",
+      "sparkle"
+    ]
+  },
+  "💗": {
+    "char": "💗",
+    "keywords": [
+      "excited",
+      "growing",
+      "nervous",
+      "pulse"
+    ]
+  },
+  "💙": {
+    "char": "💙",
+    "keywords": [
+      "blue"
+    ]
+  },
+  "💚": {
+    "char": "💚",
+    "keywords": [
+      "green"
+    ]
+  },
+  "💛": {
+    "char": "💛",
+    "keywords": [
+      "yellow"
+    ]
+  },
+  "💜": {
+    "char": "💜",
+    "keywords": [
+      "purple"
+    ]
+  },
+  "🖤": {
+    "char": "🖤",
+    "keywords": [
+      "black",
+      "evil",
+      "wicked"
+    ]
+  },
+  "💝": {
+    "char": "💝",
+    "keywords": [
+      "ribbon",
+      "valentine"
+    ]
+  },
+  "💞": {
+    "char": "💞",
+    "keywords": [
+      "revolving"
+    ]
+  },
+  "💟": {
+    "char": "💟",
+    "keywords": [
+      "heart"
+    ]
+  },
+  "❣": {
+    "char": "❣",
+    "keywords": [
+      "exclamation",
+      "mark",
+      "punctuation"
+    ]
+  },
+  "💌": {
+    "char": "💌",
+    "keywords": [
+      "heart",
+      "letter",
+      "love",
+      "mail"
+    ]
+  },
+  "💤": {
+    "char": "💤",
+    "keywords": [
+      "comic",
+      "sleep"
+    ]
+  },
+  "💢": {
+    "char": "💢",
+    "keywords": [
+      "angry",
+      "comic",
+      "mad"
+    ]
+  },
+  "💣": {
+    "char": "💣",
+    "keywords": [
+      "comic"
+    ]
+  },
+  "💥": {
+    "char": "💥",
+    "keywords": [
+      "boom",
+      "comic"
+    ]
+  },
+  "💦": {
+    "char": "💦",
+    "keywords": [
+      "comic",
+      "splashing",
+      "sweat"
+    ]
+  },
+  "💨": {
+    "char": "💨",
+    "keywords": [
+      "comic",
+      "dash",
+      "running"
+    ]
+  },
+  "💫": {
+    "char": "💫",
+    "keywords": [
+      "comic",
+      "star"
+    ]
+  },
+  "💬": {
+    "char": "💬",
+    "keywords": [
+      "balloon",
+      "bubble",
+      "comic",
+      "dialog",
+      "speech"
+    ]
+  },
+  "🗨": {
+    "char": "🗨",
+    "keywords": [
+      "dialog",
+      "speech"
+    ]
+  },
+  "🗯": {
+    "char": "🗯",
+    "keywords": [
+      "angry",
+      "balloon",
+      "bubble",
+      "mad"
+    ]
+  },
+  "💭": {
+    "char": "💭",
+    "keywords": [
+      "balloon",
+      "bubble",
+      "comic",
+      "thought"
+    ]
+  },
+  "🕳": {
+    "char": "🕳",
+    "keywords": [
+      "hole"
+    ]
+  },
+  "👓": {
+    "char": "👓",
+    "keywords": [
+      "clothing",
+      "eye",
+      "eyeglasses",
+      "eyewear"
+    ]
+  },
+  "🕶": {
+    "char": "🕶",
+    "keywords": [
+      "dark",
+      "eye",
+      "eyewear",
+      "glasses"
+    ]
+  },
+  "👔": {
+    "char": "👔",
+    "keywords": [
+      "clothing"
+    ]
+  },
+  "👕": {
+    "char": "👕",
+    "keywords": [
+      "clothing",
+      "shirt",
+      "tshirt"
+    ]
+  },
+  "👖": {
+    "char": "👖",
+    "keywords": [
+      "clothing",
+      "pants",
+      "trousers"
+    ]
+  },
+  "👗": {
+    "char": "👗",
+    "keywords": [
+      "clothing"
+    ]
+  },
+  "👘": {
+    "char": "👘",
+    "keywords": [
+      "clothing"
+    ]
+  },
+  "👙": {
+    "char": "👙",
+    "keywords": [
+      "clothing",
+      "swim"
+    ]
+  },
+  "👚": {
+    "char": "👚",
+    "keywords": [
+      "clothing",
+      "woman"
+    ]
+  },
+  "👛": {
+    "char": "👛",
+    "keywords": [
+      "clothing",
+      "coin"
+    ]
+  },
+  "👜": {
+    "char": "👜",
+    "keywords": [
+      "bag",
+      "clothing",
+      "purse"
+    ]
+  },
+  "👝": {
+    "char": "👝",
+    "keywords": [
+      "bag",
+      "clothing",
+      "pouch"
+    ]
+  },
+  "🛍": {
+    "char": "🛍",
+    "keywords": [
+      "bag",
+      "hotel",
+      "shopping"
+    ]
+  },
+  "🎒": {
+    "char": "🎒",
+    "keywords": [
+      "bag",
+      "satchel",
+      "school"
+    ]
+  },
+  "👞": {
+    "char": "👞",
+    "keywords": [
+      "clothing",
+      "man",
+      "shoe"
+    ]
+  },
+  "👟": {
+    "char": "👟",
+    "keywords": [
+      "athletic",
+      "clothing",
+      "shoe",
+      "sneaker"
+    ]
+  },
+  "👠": {
+    "char": "👠",
+    "keywords": [
+      "clothing",
+      "heel",
+      "shoe",
+      "woman"
+    ]
+  },
+  "👡": {
+    "char": "👡",
+    "keywords": [
+      "clothing",
+      "sandal",
+      "shoe",
+      "woman"
+    ]
+  },
+  "👢": {
+    "char": "👢",
+    "keywords": [
+      "boot",
+      "clothing",
+      "shoe",
+      "woman"
+    ]
+  },
+  "👑": {
+    "char": "👑",
+    "keywords": [
+      "clothing",
+      "king",
+      "queen"
+    ]
+  },
+  "👒": {
+    "char": "👒",
+    "keywords": [
+      "clothing",
+      "hat",
+      "woman"
+    ]
+  },
+  "🎩": {
+    "char": "🎩",
+    "keywords": [
+      "clothing",
+      "hat",
+      "top",
+      "tophat"
+    ]
+  },
+  "🎓": {
+    "char": "🎓",
+    "keywords": [
+      "cap",
+      "celebration",
+      "clothing",
+      "graduation",
+      "hat"
+    ]
+  },
+  "⛑": {
+    "char": "⛑",
+    "keywords": [
+      "aid",
+      "cross",
+      "face",
+      "hat",
+      "helmet"
+    ]
+  },
+  "📿": {
+    "char": "📿",
+    "keywords": [
+      "beads",
+      "clothing",
+      "necklace",
+      "prayer",
+      "religion"
+    ]
+  },
+  "💄": {
+    "char": "💄",
+    "keywords": [
+      "cosmetics",
+      "makeup"
+    ]
+  },
+  "💍": {
+    "char": "💍",
+    "keywords": [
+      "diamond"
+    ]
+  },
+  "💎": {
+    "char": "💎",
+    "keywords": [
+      "diamond",
+      "gem",
+      "jewel"
+    ]
+  },
+  "🐵": {
+    "char": "🐵",
+    "keywords": [
+      "face",
+      "monkey"
+    ]
+  },
+  "🐒": {
+    "char": "🐒",
+    "keywords": [
+      "monkey"
+    ]
+  },
+  "🦍": {
+    "char": "🦍",
+    "keywords": [
+      "gorilla"
+    ]
+  },
+  "🐶": {
+    "char": "🐶",
+    "keywords": [
+      "dog",
+      "face",
+      "pet"
+    ]
+  },
+  "🐕": {
+    "char": "🐕",
+    "keywords": [
+      "pet"
+    ]
+  },
+  "🐩": {
+    "char": "🐩",
+    "keywords": [
+      "dog"
+    ]
+  },
+  "🐺": {
+    "char": "🐺",
+    "keywords": [
+      "face",
+      "wolf"
+    ]
+  },
+  "🦊": {
+    "char": "🦊",
+    "keywords": [
+      "face",
+      "fox"
+    ]
+  },
+  "🐱": {
+    "char": "🐱",
+    "keywords": [
+      "cat",
+      "face",
+      "pet"
+    ]
+  },
+  "🐈": {
+    "char": "🐈",
+    "keywords": [
+      "pet"
+    ]
+  },
+  "🦁": {
+    "char": "🦁",
+    "keywords": [
+      "face",
+      "Leo",
+      "lion",
+      "zodiac"
+    ]
+  },
+  "🐯": {
+    "char": "🐯",
+    "keywords": [
+      "face",
+      "tiger"
+    ]
+  },
+  "🐅": {
+    "char": "🐅",
+    "keywords": [
+      "tiger"
+    ]
+  },
+  "🐆": {
+    "char": "🐆",
+    "keywords": [
+      "leopard"
+    ]
+  },
+  "🐴": {
+    "char": "🐴",
+    "keywords": [
+      "face",
+      "horse"
+    ]
+  },
+  "🐎": {
+    "char": "🐎",
+    "keywords": [
+      "equestrian",
+      "racehorse",
+      "racing"
+    ]
+  },
+  "🦌": {
+    "char": "🦌",
+    "keywords": [
+      "deer"
+    ]
+  },
+  "🦄": {
+    "char": "🦄",
+    "keywords": [
+      "face",
+      "unicorn"
+    ]
+  },
+  "🐮": {
+    "char": "🐮",
+    "keywords": [
+      "cow",
+      "face"
+    ]
+  },
+  "🐂": {
+    "char": "🐂",
+    "keywords": [
+      "bull",
+      "Taurus",
+      "zodiac"
+    ]
+  },
+  "🐃": {
+    "char": "🐃",
+    "keywords": [
+      "buffalo",
+      "water"
+    ]
+  },
+  "🐄": {
+    "char": "🐄",
+    "keywords": [
+      "cow"
+    ]
+  },
+  "🐷": {
+    "char": "🐷",
+    "keywords": [
+      "face",
+      "pig"
+    ]
+  },
+  "🐖": {
+    "char": "🐖",
+    "keywords": [
+      "sow"
+    ]
+  },
+  "🐗": {
+    "char": "🐗",
+    "keywords": [
+      "pig"
+    ]
+  },
+  "🐽": {
+    "char": "🐽",
+    "keywords": [
+      "face",
+      "nose",
+      "pig"
+    ]
+  },
+  "🐏": {
+    "char": "🐏",
+    "keywords": [
+      "Aries",
+      "sheep",
+      "zodiac"
+    ]
+  },
+  "🐑": {
+    "char": "🐑",
+    "keywords": [
+      "ewe"
+    ]
+  },
+  "🐐": {
+    "char": "🐐",
+    "keywords": [
+      "Capricorn",
+      "zodiac"
+    ]
+  },
+  "🐪": {
+    "char": "🐪",
+    "keywords": [
+      "dromedary",
+      "hump"
+    ]
+  },
+  "🐫": {
+    "char": "🐫",
+    "keywords": [
+      "bactrian",
+      "camel",
+      "hump"
+    ]
+  },
+  "🐘": {
+    "char": "🐘",
+    "keywords": [
+      "elephant"
+    ]
+  },
+  "🦏": {
+    "char": "🦏",
+    "keywords": [
+      "rhinoceros"
+    ]
+  },
+  "🐭": {
+    "char": "🐭",
+    "keywords": [
+      "face",
+      "mouse"
+    ]
+  },
+  "🐁": {
+    "char": "🐁",
+    "keywords": [
+      "mouse"
+    ]
+  },
+  "🐀": {
+    "char": "🐀",
+    "keywords": [
+      "rat"
+    ]
+  },
+  "🐹": {
+    "char": "🐹",
+    "keywords": [
+      "face",
+      "hamster",
+      "pet"
+    ]
+  },
+  "🐰": {
+    "char": "🐰",
+    "keywords": [
+      "bunny",
+      "face",
+      "pet",
+      "rabbit"
+    ]
+  },
+  "🐇": {
+    "char": "🐇",
+    "keywords": [
+      "bunny",
+      "pet"
+    ]
+  },
+  "🐿": {
+    "char": "🐿",
+    "keywords": [
+      "chipmunk"
+    ]
+  },
+  "🦇": {
+    "char": "🦇",
+    "keywords": [
+      "bat",
+      "vampire"
+    ]
+  },
+  "🐻": {
+    "char": "🐻",
+    "keywords": [
+      "bear",
+      "face"
+    ]
+  },
+  "🐨": {
+    "char": "🐨",
+    "keywords": [
+      "bear"
+    ]
+  },
+  "🐼": {
+    "char": "🐼",
+    "keywords": [
+      "face",
+      "panda"
+    ]
+  },
+  "🐾": {
+    "char": "🐾",
+    "keywords": [
+      "feet",
+      "paw",
+      "print"
+    ]
+  },
+  "🦃": {
+    "char": "🦃",
+    "keywords": [
+      "turkey"
+    ]
+  },
+  "🐔": {
+    "char": "🐔",
+    "keywords": [
+      "chicken"
+    ]
+  },
+  "🐓": {
+    "char": "🐓",
+    "keywords": [
+      "rooster"
+    ]
+  },
+  "🐣": {
+    "char": "🐣",
+    "keywords": [
+      "baby",
+      "chick",
+      "hatching"
+    ]
+  },
+  "🐤": {
+    "char": "🐤",
+    "keywords": [
+      "baby",
+      "chick"
+    ]
+  },
+  "🐥": {
+    "char": "🐥",
+    "keywords": [
+      "baby",
+      "chick"
+    ]
+  },
+  "🐦": {
+    "char": "🐦",
+    "keywords": [
+      "bird"
+    ]
+  },
+  "🐧": {
+    "char": "🐧",
+    "keywords": [
+      "penguin"
+    ]
+  },
+  "🕊": {
+    "char": "🕊",
+    "keywords": [
+      "bird",
+      "fly",
+      "peace"
+    ]
+  },
+  "🦅": {
+    "char": "🦅",
+    "keywords": [
+      "bird",
+      "eagle"
+    ]
+  },
+  "🦆": {
+    "char": "🦆",
+    "keywords": [
+      "bird",
+      "duck"
+    ]
+  },
+  "🦉": {
+    "char": "🦉",
+    "keywords": [
+      "bird",
+      "owl",
+      "wise"
+    ]
+  },
+  "🐸": {
+    "char": "🐸",
+    "keywords": [
+      "face",
+      "frog"
+    ]
+  },
+  "🐊": {
+    "char": "🐊",
+    "keywords": [
+      "crocodile"
+    ]
+  },
+  "🐢": {
+    "char": "🐢",
+    "keywords": [
+      "terrapin",
+      "tortoise",
+      "turtle"
+    ]
+  },
+  "🦎": {
+    "char": "🦎",
+    "keywords": [
+      "lizard",
+      "reptile"
+    ]
+  },
+  "🐍": {
+    "char": "🐍",
+    "keywords": [
+      "bearer",
+      "Ophiuchus",
+      "serpent",
+      "zodiac"
+    ]
+  },
+  "🐲": {
+    "char": "🐲",
+    "keywords": [
+      "dragon",
+      "face",
+      "fairy tale"
+    ]
+  },
+  "🐉": {
+    "char": "🐉",
+    "keywords": [
+      "fairy tale"
+    ]
+  },
+  "🐳": {
+    "char": "🐳",
+    "keywords": [
+      "face",
+      "spouting",
+      "whale"
+    ]
+  },
+  "🐋": {
+    "char": "🐋",
+    "keywords": [
+      "whale"
+    ]
+  },
+  "🐬": {
+    "char": "🐬",
+    "keywords": [
+      "flipper"
+    ]
+  },
+  "🐟": {
+    "char": "🐟",
+    "keywords": [
+      "Pisces",
+      "zodiac"
+    ]
+  },
+  "🐠": {
+    "char": "🐠",
+    "keywords": [
+      "fish",
+      "tropical"
+    ]
+  },
+  "🐡": {
+    "char": "🐡",
+    "keywords": [
+      "fish"
+    ]
+  },
+  "🦈": {
+    "char": "🦈",
+    "keywords": [
+      "fish",
+      "shark"
+    ]
+  },
+  "🐙": {
+    "char": "🐙",
+    "keywords": [
+      "octopus"
+    ]
+  },
+  "🐚": {
+    "char": "🐚",
+    "keywords": [
+      "shell",
+      "spiral"
+    ]
+  },
+  "🦀": {
+    "char": "🦀",
+    "keywords": [
+      "Cancer",
+      "zodiac"
+    ]
+  },
+  "🦐": {
+    "char": "🦐",
+    "keywords": [
+      "food",
+      "shellfish",
+      "shrimp",
+      "small"
+    ]
+  },
+  "🦑": {
+    "char": "🦑",
+    "keywords": [
+      "food",
+      "molusc",
+      "squid"
+    ]
+  },
+  "🦋": {
+    "char": "🦋",
+    "keywords": [
+      "butterfly",
+      "insect",
+      "pretty"
+    ]
+  },
+  "🐌": {
+    "char": "🐌",
+    "keywords": [
+      "snail"
+    ]
+  },
+  "🐛": {
+    "char": "🐛",
+    "keywords": [
+      "insect"
+    ]
+  },
+  "🐜": {
+    "char": "🐜",
+    "keywords": [
+      "insect"
+    ]
+  },
+  "🐝": {
+    "char": "🐝",
+    "keywords": [
+      "bee",
+      "insect"
+    ]
+  },
+  "🐞": {
+    "char": "🐞",
+    "keywords": [
+      "beetle",
+      "insect",
+      "ladybird",
+      "ladybug"
+    ]
+  },
+  "🕷": {
+    "char": "🕷",
+    "keywords": [
+      "insect"
+    ]
+  },
+  "🕸": {
+    "char": "🕸",
+    "keywords": [
+      "spider",
+      "web"
+    ]
+  },
+  "🦂": {
+    "char": "🦂",
+    "keywords": [
+      "scorpio",
+      "Scorpius",
+      "zodiac"
+    ]
+  },
+  "💐": {
+    "char": "💐",
+    "keywords": [
+      "flower"
+    ]
+  },
+  "🌸": {
+    "char": "🌸",
+    "keywords": [
+      "blossom",
+      "cherry",
+      "flower"
+    ]
+  },
+  "💮": {
+    "char": "💮",
+    "keywords": [
+      "flower"
+    ]
+  },
+  "🏵": {
+    "char": "🏵",
+    "keywords": [
+      "plant"
+    ]
+  },
+  "🌹": {
+    "char": "🌹",
+    "keywords": [
+      "flower"
+    ]
+  },
+  "🥀": {
+    "char": "🥀",
+    "keywords": [
+      "flower",
+      "wilted"
+    ]
+  },
+  "🌺": {
+    "char": "🌺",
+    "keywords": [
+      "flower"
+    ]
+  },
+  "🌻": {
+    "char": "🌻",
+    "keywords": [
+      "flower",
+      "sun"
+    ]
+  },
+  "🌼": {
+    "char": "🌼",
+    "keywords": [
+      "flower"
+    ]
+  },
+  "🌷": {
+    "char": "🌷",
+    "keywords": [
+      "flower"
+    ]
+  },
+  "🌱": {
+    "char": "🌱",
+    "keywords": [
+      "young"
+    ]
+  },
+  "🌲": {
+    "char": "🌲",
+    "keywords": [
+      "tree"
+    ]
+  },
+  "🌳": {
+    "char": "🌳",
+    "keywords": [
+      "deciduous",
+      "shedding",
+      "tree"
+    ]
+  },
+  "🌴": {
+    "char": "🌴",
+    "keywords": [
+      "palm",
+      "tree"
+    ]
+  },
+  "🌵": {
+    "char": "🌵",
+    "keywords": [
+      "plant"
+    ]
+  },
+  "🌾": {
+    "char": "🌾",
+    "keywords": [
+      "ear",
+      "grain",
+      "rice"
+    ]
+  },
+  "🌿": {
+    "char": "🌿",
+    "keywords": [
+      "leaf"
+    ]
+  },
+  "☘": {
+    "char": "☘",
+    "keywords": [
+      "plant"
+    ]
+  },
+  "🍀": {
+    "char": "🍀",
+    "keywords": [
+      "4",
+      "clover",
+      "four",
+      "leaf"
+    ]
+  },
+  "🍁": {
+    "char": "🍁",
+    "keywords": [
+      "falling",
+      "leaf",
+      "maple"
+    ]
+  },
+  "🍂": {
+    "char": "🍂",
+    "keywords": [
+      "falling",
+      "leaf"
+    ]
+  },
+  "🍃": {
+    "char": "🍃",
+    "keywords": [
+      "blow",
+      "flutter",
+      "leaf",
+      "wind"
+    ]
+  },
+  "🍇": {
+    "char": "🍇",
+    "keywords": [
+      "fruit",
+      "grape"
+    ]
+  },
+  "🍈": {
+    "char": "🍈",
+    "keywords": [
+      "fruit"
+    ]
+  },
+  "🍉": {
+    "char": "🍉",
+    "keywords": [
+      "fruit"
+    ]
+  },
+  "🍊": {
+    "char": "🍊",
+    "keywords": [
+      "fruit",
+      "orange"
+    ]
+  },
+  "🍋": {
+    "char": "🍋",
+    "keywords": [
+      "citrus",
+      "fruit"
+    ]
+  },
+  "🍌": {
+    "char": "🍌",
+    "keywords": [
+      "fruit"
+    ]
+  },
+  "🍍": {
+    "char": "🍍",
+    "keywords": [
+      "fruit"
+    ]
+  },
+  "🍎": {
+    "char": "🍎",
+    "keywords": [
+      "apple",
+      "fruit",
+      "red"
+    ]
+  },
+  "🍏": {
+    "char": "🍏",
+    "keywords": [
+      "apple",
+      "fruit",
+      "green"
+    ]
+  },
+  "🍐": {
+    "char": "🍐",
+    "keywords": [
+      "fruit"
+    ]
+  },
+  "🍑": {
+    "char": "🍑",
+    "keywords": [
+      "fruit"
+    ]
+  },
+  "🍒": {
+    "char": "🍒",
+    "keywords": [
+      "cherry",
+      "fruit"
+    ]
+  },
+  "🍓": {
+    "char": "🍓",
+    "keywords": [
+      "berry",
+      "fruit"
+    ]
+  },
+  "🥝": {
+    "char": "🥝",
+    "keywords": [
+      "food",
+      "fruit",
+      "kiwi"
+    ]
+  },
+  "🍅": {
+    "char": "🍅",
+    "keywords": [
+      "fruit",
+      "vegetable"
+    ]
+  },
+  "🥑": {
+    "char": "🥑",
+    "keywords": [
+      "avocado",
+      "food",
+      "fruit"
+    ]
+  },
+  "🍆": {
+    "char": "🍆",
+    "keywords": [
+      "aubergine",
+      "vegetable"
+    ]
+  },
+  "🥔": {
+    "char": "🥔",
+    "keywords": [
+      "food",
+      "potato",
+      "vegetable"
+    ]
+  },
+  "🥕": {
+    "char": "🥕",
+    "keywords": [
+      "carrot",
+      "food",
+      "vegetable"
+    ]
+  },
+  "🌽": {
+    "char": "🌽",
+    "keywords": [
+      "corn",
+      "ear",
+      "maize",
+      "maze"
+    ]
+  },
+  "🌶": {
+    "char": "🌶",
+    "keywords": [
+      "hot",
+      "pepper"
+    ]
+  },
+  "🥒": {
+    "char": "🥒",
+    "keywords": [
+      "cucumber",
+      "food",
+      "pickle",
+      "vegetable"
+    ]
+  },
+  "🍄": {
+    "char": "🍄",
+    "keywords": [
+      "toadstool"
+    ]
+  },
+  "🥜": {
+    "char": "🥜",
+    "keywords": [
+      "food",
+      "nut",
+      "peanut",
+      "vegetable"
+    ]
+  },
+  "🌰": {
+    "char": "🌰",
+    "keywords": [
+      "plant"
+    ]
+  },
+  "🍞": {
+    "char": "🍞",
+    "keywords": [
+      "loaf"
+    ]
+  },
+  "🥐": {
+    "char": "🥐",
+    "keywords": [
+      "bread",
+      "crescent roll",
+      "croissant",
+      "food",
+      "french"
+    ]
+  },
+  "🥖": {
+    "char": "🥖",
+    "keywords": [
+      "baguette",
+      "bread",
+      "food",
+      "french"
+    ]
+  },
+  "🥞": {
+    "char": "🥞",
+    "keywords": [
+      "crêpe",
+      "food",
+      "hotcake",
+      "pancake"
+    ]
+  },
+  "🧀": {
+    "char": "🧀",
+    "keywords": [
+      "cheese"
+    ]
+  },
+  "🍖": {
+    "char": "🍖",
+    "keywords": [
+      "bone",
+      "meat"
+    ]
+  },
+  "🍗": {
+    "char": "🍗",
+    "keywords": [
+      "bone",
+      "chicken",
+      "leg",
+      "poultry"
+    ]
+  },
+  "🥓": {
+    "char": "🥓",
+    "keywords": [
+      "bacon",
+      "food",
+      "meat"
+    ]
+  },
+  "🍔": {
+    "char": "🍔",
+    "keywords": [
+      "burger"
+    ]
+  },
+  "🍟": {
+    "char": "🍟",
+    "keywords": [
+      "french",
+      "fries"
+    ]
+  },
+  "🍕": {
+    "char": "🍕",
+    "keywords": [
+      "cheese",
+      "slice"
+    ]
+  },
+  "🌭": {
+    "char": "🌭",
+    "keywords": [
+      "frankfurter",
+      "hotdog",
+      "sausage"
+    ]
+  },
+  "🌮": {
+    "char": "🌮",
+    "keywords": [
+      "mexican"
+    ]
+  },
+  "🌯": {
+    "char": "🌯",
+    "keywords": [
+      "mexican",
+      "wrap"
+    ]
+  },
+  "🥙": {
+    "char": "🥙",
+    "keywords": [
+      "falafel",
+      "flatbread",
+      "food",
+      "gyro",
+      "kebab",
+      "stuffed"
+    ]
+  },
+  "🥚": {
+    "char": "🥚",
+    "keywords": [
+      "egg",
+      "food"
+    ]
+  },
+  "🍳": {
+    "char": "🍳",
+    "keywords": [
+      "egg",
+      "frying",
+      "pan"
+    ]
+  },
+  "🥘": {
+    "char": "🥘",
+    "keywords": [
+      "casserole",
+      "food",
+      "paella",
+      "pan",
+      "shallow"
+    ]
+  },
+  "🍲": {
+    "char": "🍲",
+    "keywords": [
+      "pot",
+      "stew"
+    ]
+  },
+  "🥗": {
+    "char": "🥗",
+    "keywords": [
+      "food",
+      "green",
+      "salad"
+    ]
+  },
+  "🍿": {
+    "char": "🍿",
+    "keywords": [
+      "popcorn"
+    ]
+  },
+  "🍱": {
+    "char": "🍱",
+    "keywords": [
+      "bento",
+      "box"
+    ]
+  },
+  "🍘": {
+    "char": "🍘",
+    "keywords": [
+      "cracker",
+      "rice"
+    ]
+  },
+  "🍙": {
+    "char": "🍙",
+    "keywords": [
+      "ball",
+      "Japanese",
+      "rice"
+    ]
+  },
+  "🍚": {
+    "char": "🍚",
+    "keywords": [
+      "cooked",
+      "rice"
+    ]
+  },
+  "🍛": {
+    "char": "🍛",
+    "keywords": [
+      "curry",
+      "rice"
+    ]
+  },
+  "🍜": {
+    "char": "🍜",
+    "keywords": [
+      "bowl",
+      "noodle",
+      "ramen",
+      "steaming"
+    ]
+  },
+  "🍝": {
+    "char": "🍝",
+    "keywords": [
+      "pasta"
+    ]
+  },
+  "🍠": {
+    "char": "🍠",
+    "keywords": [
+      "potato",
+      "roasted",
+      "sweet"
+    ]
+  },
+  "🍢": {
+    "char": "🍢",
+    "keywords": [
+      "kebab",
+      "seafood",
+      "skewer",
+      "stick"
+    ]
+  },
+  "🍣": {
+    "char": "🍣",
+    "keywords": [
+      "sushi"
+    ]
+  },
+  "🍤": {
+    "char": "🍤",
+    "keywords": [
+      "fried",
+      "prawn",
+      "shrimp",
+      "tempura"
+    ]
+  },
+  "🍥": {
+    "char": "🍥",
+    "keywords": [
+      "cake",
+      "fish",
+      "pastry",
+      "swirl"
+    ]
+  },
+  "🍡": {
+    "char": "🍡",
+    "keywords": [
+      "dessert",
+      "Japanese",
+      "skewer",
+      "stick",
+      "sweet"
+    ]
+  },
+  "🍦": {
+    "char": "🍦",
+    "keywords": [
+      "cream",
+      "dessert",
+      "ice",
+      "icecream",
+      "soft",
+      "sweet"
+    ]
+  },
+  "🍧": {
+    "char": "🍧",
+    "keywords": [
+      "dessert",
+      "ice",
+      "shaved",
+      "sweet"
+    ]
+  },
+  "🍨": {
+    "char": "🍨",
+    "keywords": [
+      "cream",
+      "dessert",
+      "ice",
+      "sweet"
+    ]
+  },
+  "🍩": {
+    "char": "🍩",
+    "keywords": [
+      "dessert",
+      "donut",
+      "sweet"
+    ]
+  },
+  "🍪": {
+    "char": "🍪",
+    "keywords": [
+      "dessert",
+      "sweet"
+    ]
+  },
+  "🎂": {
+    "char": "🎂",
+    "keywords": [
+      "birthday",
+      "cake",
+      "celebration",
+      "dessert",
+      "pastry",
+      "sweet"
+    ]
+  },
+  "🍰": {
+    "char": "🍰",
+    "keywords": [
+      "cake",
+      "dessert",
+      "pastry",
+      "slice",
+      "sweet"
+    ]
+  },
+  "🍫": {
+    "char": "🍫",
+    "keywords": [
+      "bar",
+      "chocolate",
+      "dessert",
+      "sweet"
+    ]
+  },
+  "🍬": {
+    "char": "🍬",
+    "keywords": [
+      "dessert",
+      "sweet"
+    ]
+  },
+  "🍭": {
+    "char": "🍭",
+    "keywords": [
+      "candy",
+      "dessert",
+      "sweet"
+    ]
+  },
+  "🍮": {
+    "char": "🍮",
+    "keywords": [
+      "dessert",
+      "pudding",
+      "sweet"
+    ]
+  },
+  "🍯": {
+    "char": "🍯",
+    "keywords": [
+      "honey",
+      "honeypot",
+      "pot",
+      "sweet"
+    ]
+  },
+  "🍼": {
+    "char": "🍼",
+    "keywords": [
+      "baby",
+      "bottle",
+      "drink",
+      "milk"
+    ]
+  },
+  "🥛": {
+    "char": "🥛",
+    "keywords": [
+      "drink",
+      "glass",
+      "milk"
+    ]
+  },
+  "☕": {
+    "char": "☕",
+    "keywords": [
+      "beverage",
+      "coffee",
+      "drink",
+      "hot",
+      "steaming",
+      "tea"
+    ]
+  },
+  "🍵": {
+    "char": "🍵",
+    "keywords": [
+      "beverage",
+      "cup",
+      "drink",
+      "tea",
+      "teacup"
+    ]
+  },
+  "🍶": {
+    "char": "🍶",
+    "keywords": [
+      "bar",
+      "beverage",
+      "bottle",
+      "cup",
+      "drink"
+    ]
+  },
+  "🍾": {
+    "char": "🍾",
+    "keywords": [
+      "bar",
+      "bottle",
+      "cork",
+      "drink",
+      "popping"
+    ]
+  },
+  "🍷": {
+    "char": "🍷",
+    "keywords": [
+      "bar",
+      "beverage",
+      "drink",
+      "glass",
+      "wine"
+    ]
+  },
+  "🍸": {
+    "char": "🍸",
+    "keywords": [
+      "bar",
+      "cocktail",
+      "drink",
+      "glass"
+    ]
+  },
+  "🍹": {
+    "char": "🍹",
+    "keywords": [
+      "bar",
+      "drink",
+      "tropical"
+    ]
+  },
+  "🍺": {
+    "char": "🍺",
+    "keywords": [
+      "bar",
+      "beer",
+      "drink",
+      "mug"
+    ]
+  },
+  "🍻": {
+    "char": "🍻",
+    "keywords": [
+      "bar",
+      "beer",
+      "clink",
+      "drink",
+      "mug"
+    ]
+  },
+  "🥂": {
+    "char": "🥂",
+    "keywords": [
+      "celebrate",
+      "clink",
+      "drink",
+      "glass"
+    ]
+  },
+  "🥃": {
+    "char": "🥃",
+    "keywords": [
+      "glass",
+      "liquor",
+      "shot",
+      "tumbler",
+      "whisky"
+    ]
+  },
+  "🍽": {
+    "char": "🍽",
+    "keywords": [
+      "cooking",
+      "fork",
+      "knife",
+      "plate"
+    ]
+  },
+  "🍴": {
+    "char": "🍴",
+    "keywords": [
+      "cooking",
+      "fork",
+      "knife"
+    ]
+  },
+  "🥄": {
+    "char": "🥄",
+    "keywords": [
+      "spoon",
+      "tableware"
+    ]
+  },
+  "🔪": {
+    "char": "🔪",
+    "keywords": [
+      "cooking",
+      "hocho",
+      "knife",
+      "tool",
+      "weapon"
+    ]
+  },
+  "🏺": {
+    "char": "🏺",
+    "keywords": [
+      "Aquarius",
+      "cooking",
+      "drink",
+      "jug",
+      "tool",
+      "weapon",
+      "zodiac"
+    ]
+  },
+  "🌍": {
+    "char": "🌍",
+    "keywords": [
+      "Africa",
+      "earth",
+      "Europe",
+      "globe",
+      "world"
+    ]
+  },
+  "🌎": {
+    "char": "🌎",
+    "keywords": [
+      "Americas",
+      "earth",
+      "globe",
+      "world"
+    ]
+  },
+  "🌏": {
+    "char": "🌏",
+    "keywords": [
+      "Asia",
+      "Australia",
+      "earth",
+      "globe",
+      "world"
+    ]
+  },
+  "🌐": {
+    "char": "🌐",
+    "keywords": [
+      "earth",
+      "globe",
+      "meridians",
+      "world"
+    ]
+  },
+  "🗺": {
+    "char": "🗺",
+    "keywords": [
+      "map",
+      "world"
+    ]
+  },
+  "🗾": {
+    "char": "🗾",
+    "keywords": [
+      "Japan",
+      "map"
+    ]
+  },
+  "🏔": {
+    "char": "🏔",
+    "keywords": [
+      "cold",
+      "mountain",
+      "snow"
+    ]
+  },
+  "⛰": {
+    "char": "⛰",
+    "keywords": [
+      "mountain"
+    ]
+  },
+  "🌋": {
+    "char": "🌋",
+    "keywords": [
+      "eruption",
+      "mountain"
+    ]
+  },
+  "🗻": {
+    "char": "🗻",
+    "keywords": [
+      "fuji",
+      "mountain"
+    ]
+  },
+  "🏕": {
+    "char": "🏕",
+    "keywords": [
+      "camping"
+    ]
+  },
+  "🏖": {
+    "char": "🏖",
+    "keywords": [
+      "beach",
+      "umbrella"
+    ]
+  },
+  "🏜": {
+    "char": "🏜",
+    "keywords": [
+      "desert"
+    ]
+  },
+  "🏝": {
+    "char": "🏝",
+    "keywords": [
+      "desert",
+      "island"
+    ]
+  },
+  "🏞": {
+    "char": "🏞",
+    "keywords": [
+      "park"
+    ]
+  },
+  "🏟": {
+    "char": "🏟",
+    "keywords": [
+      "stadium"
+    ]
+  },
+  "🏛": {
+    "char": "🏛",
+    "keywords": [
+      "classical"
+    ]
+  },
+  "🏗": {
+    "char": "🏗",
+    "keywords": [
+      "construction"
+    ]
+  },
+  "🏘": {
+    "char": "🏘",
+    "keywords": [
+      "house"
+    ]
+  },
+  "🏙": {
+    "char": "🏙",
+    "keywords": [
+      "city"
+    ]
+  },
+  "🏚": {
+    "char": "🏚",
+    "keywords": [
+      "derelict",
+      "house"
+    ]
+  },
+  "🏠": {
+    "char": "🏠",
+    "keywords": [
+      "home",
+      "house"
+    ]
+  },
+  "🏡": {
+    "char": "🏡",
+    "keywords": [
+      "garden",
+      "home",
+      "house"
+    ]
+  },
+  "🏢": {
+    "char": "🏢",
+    "keywords": [
+      "building"
+    ]
+  },
+  "🏣": {
+    "char": "🏣",
+    "keywords": [
+      "Japanese",
+      "post"
+    ]
+  },
+  "🏤": {
+    "char": "🏤",
+    "keywords": [
+      "European",
+      "post"
+    ]
+  },
+  "🏥": {
+    "char": "🏥",
+    "keywords": [
+      "doctor",
+      "medicine"
+    ]
+  },
+  "🏦": {
+    "char": "🏦",
+    "keywords": [
+      "building"
+    ]
+  },
+  "🏨": {
+    "char": "🏨",
+    "keywords": [
+      "building"
+    ]
+  },
+  "🏩": {
+    "char": "🏩",
+    "keywords": [
+      "hotel",
+      "love"
+    ]
+  },
+  "🏪": {
+    "char": "🏪",
+    "keywords": [
+      "convenience",
+      "store"
+    ]
+  },
+  "🏫": {
+    "char": "🏫",
+    "keywords": [
+      "building"
+    ]
+  },
+  "🏬": {
+    "char": "🏬",
+    "keywords": [
+      "department",
+      "store"
+    ]
+  },
+  "🏭": {
+    "char": "🏭",
+    "keywords": [
+      "building"
+    ]
+  },
+  "🏯": {
+    "char": "🏯",
+    "keywords": [
+      "castle",
+      "Japanese"
+    ]
+  },
+  "🏰": {
+    "char": "🏰",
+    "keywords": [
+      "European"
+    ]
+  },
+  "💒": {
+    "char": "💒",
+    "keywords": [
+      "chapel",
+      "romance"
+    ]
+  },
+  "🗼": {
+    "char": "🗼",
+    "keywords": [
+      "Tokyo",
+      "tower"
+    ]
+  },
+  "🗽": {
+    "char": "🗽",
+    "keywords": [
+      "liberty",
+      "statue"
+    ]
+  },
+  "⛪": {
+    "char": "⛪",
+    "keywords": [
+      "Christian",
+      "cross",
+      "religion"
+    ]
+  },
+  "🕌": {
+    "char": "🕌",
+    "keywords": [
+      "islam",
+      "Muslim",
+      "religion"
+    ]
+  },
+  "🕍": {
+    "char": "🕍",
+    "keywords": [
+      "Jew",
+      "Jewish",
+      "religion",
+      "temple"
+    ]
+  },
+  "⛩": {
+    "char": "⛩",
+    "keywords": [
+      "religion",
+      "shinto",
+      "shrine"
+    ]
+  },
+  "🕋": {
+    "char": "🕋",
+    "keywords": [
+      "islam",
+      "Muslim",
+      "religion"
+    ]
+  },
+  "⛲": {
+    "char": "⛲",
+    "keywords": [
+      "fountain"
+    ]
+  },
+  "⛺": {
+    "char": "⛺",
+    "keywords": [
+      "camping"
+    ]
+  },
+  "🌁": {
+    "char": "🌁",
+    "keywords": [
+      "fog"
+    ]
+  },
+  "🌃": {
+    "char": "🌃",
+    "keywords": [
+      "night",
+      "star"
+    ]
+  },
+  "🌄": {
+    "char": "🌄",
+    "keywords": [
+      "morning",
+      "mountain",
+      "sun",
+      "sunrise"
+    ]
+  },
+  "🌅": {
+    "char": "🌅",
+    "keywords": [
+      "morning",
+      "sun"
+    ]
+  },
+  "🌆": {
+    "char": "🌆",
+    "keywords": [
+      "city",
+      "dusk",
+      "evening",
+      "landscape",
+      "sun",
+      "sunset"
+    ]
+  },
+  "🌇": {
+    "char": "🌇",
+    "keywords": [
+      "dusk",
+      "sun"
+    ]
+  },
+  "🌉": {
+    "char": "🌉",
+    "keywords": [
+      "bridge",
+      "night"
+    ]
+  },
+  "♨": {
+    "char": "♨",
+    "keywords": [
+      "hot",
+      "hotsprings",
+      "springs",
+      "steaming"
+    ]
+  },
+  "🌌": {
+    "char": "🌌",
+    "keywords": [
+      "space"
+    ]
+  },
+  "🎠": {
+    "char": "🎠",
+    "keywords": [
+      "carousel",
+      "horse"
+    ]
+  },
+  "🎡": {
+    "char": "🎡",
+    "keywords": [
+      "amusement park",
+      "ferris",
+      "wheel"
+    ]
+  },
+  "🎢": {
+    "char": "🎢",
+    "keywords": [
+      "amusement park",
+      "coaster",
+      "roller"
+    ]
+  },
+  "💈": {
+    "char": "💈",
+    "keywords": [
+      "barber",
+      "haircut",
+      "pole"
+    ]
+  },
+  "🎪": {
+    "char": "🎪",
+    "keywords": [
+      "circus",
+      "tent"
+    ]
+  },
+  "🎭": {
+    "char": "🎭",
+    "keywords": [
+      "art",
+      "mask",
+      "performing",
+      "theater",
+      "theatre"
+    ]
+  },
+  "🖼": {
+    "char": "🖼",
+    "keywords": [
+      "art",
+      "frame",
+      "museum",
+      "painting",
+      "picture"
+    ]
+  },
+  "🎨": {
+    "char": "🎨",
+    "keywords": [
+      "art",
+      "museum",
+      "painting",
+      "palette"
+    ]
+  },
+  "🎰": {
+    "char": "🎰",
+    "keywords": [
+      "game",
+      "slot"
+    ]
+  },
+  "🚂": {
+    "char": "🚂",
+    "keywords": [
+      "engine",
+      "railway",
+      "steam",
+      "train"
+    ]
+  },
+  "🚃": {
+    "char": "🚃",
+    "keywords": [
+      "car",
+      "electric",
+      "railway",
+      "train",
+      "tram",
+      "trolleybus"
+    ]
+  },
+  "🚄": {
+    "char": "🚄",
+    "keywords": [
+      "railway",
+      "shinkansen",
+      "speed",
+      "train"
+    ]
+  },
+  "🚅": {
+    "char": "🚅",
+    "keywords": [
+      "bullet",
+      "railway",
+      "shinkansen",
+      "speed",
+      "train"
+    ]
+  },
+  "🚆": {
+    "char": "🚆",
+    "keywords": [
+      "railway"
+    ]
+  },
+  "🚇": {
+    "char": "🚇",
+    "keywords": [
+      "subway"
+    ]
+  },
+  "🚈": {
+    "char": "🚈",
+    "keywords": [
+      "railway"
+    ]
+  },
+  "🚉": {
+    "char": "🚉",
+    "keywords": [
+      "railway",
+      "train"
+    ]
+  },
+  "🚊": {
+    "char": "🚊",
+    "keywords": [
+      "trolleybus"
+    ]
+  },
+  "🚝": {
+    "char": "🚝",
+    "keywords": [
+      "vehicle"
+    ]
+  },
+  "🚞": {
+    "char": "🚞",
+    "keywords": [
+      "car",
+      "mountain",
+      "railway"
+    ]
+  },
+  "🚋": {
+    "char": "🚋",
+    "keywords": [
+      "car",
+      "tram",
+      "trolleybus"
+    ]
+  },
+  "🚌": {
+    "char": "🚌",
+    "keywords": [
+      "vehicle"
+    ]
+  },
+  "🚍": {
+    "char": "🚍",
+    "keywords": [
+      "bus",
+      "oncoming"
+    ]
+  },
+  "🚎": {
+    "char": "🚎",
+    "keywords": [
+      "bus",
+      "tram",
+      "trolley"
+    ]
+  },
+  "🚐": {
+    "char": "🚐",
+    "keywords": [
+      "bus"
+    ]
+  },
+  "🚑": {
+    "char": "🚑",
+    "keywords": [
+      "vehicle"
+    ]
+  },
+  "🚒": {
+    "char": "🚒",
+    "keywords": [
+      "engine",
+      "fire",
+      "truck"
+    ]
+  },
+  "🚓": {
+    "char": "🚓",
+    "keywords": [
+      "car",
+      "patrol",
+      "police"
+    ]
+  },
+  "🚔": {
+    "char": "🚔",
+    "keywords": [
+      "car",
+      "oncoming",
+      "police"
+    ]
+  },
+  "🚕": {
+    "char": "🚕",
+    "keywords": [
+      "vehicle"
+    ]
+  },
+  "🚖": {
+    "char": "🚖",
+    "keywords": [
+      "oncoming",
+      "taxi"
+    ]
+  },
+  "🚗": {
+    "char": "🚗",
+    "keywords": [
+      "car"
+    ]
+  },
+  "🚘": {
+    "char": "🚘",
+    "keywords": [
+      "automobile",
+      "car",
+      "oncoming"
+    ]
+  },
+  "🚙": {
+    "char": "🚙",
+    "keywords": [
+      "recreational",
+      "sport utility"
+    ]
+  },
+  "🚚": {
+    "char": "🚚",
+    "keywords": [
+      "delivery",
+      "truck"
+    ]
+  },
+  "🚛": {
+    "char": "🚛",
+    "keywords": [
+      "lorry",
+      "semi",
+      "truck"
+    ]
+  },
+  "🚜": {
+    "char": "🚜",
+    "keywords": [
+      "vehicle"
+    ]
+  },
+  "🚲": {
+    "char": "🚲",
+    "keywords": [
+      "bike"
+    ]
+  },
+  "🛴": {
+    "char": "🛴",
+    "keywords": [
+      "kick",
+      "scooter"
+    ]
+  },
+  "🛵": {
+    "char": "🛵",
+    "keywords": [
+      "motor",
+      "scooter"
+    ]
+  },
+  "🚏": {
+    "char": "🚏",
+    "keywords": [
+      "bus",
+      "busstop",
+      "stop"
+    ]
+  },
+  "🛣": {
+    "char": "🛣",
+    "keywords": [
+      "highway",
+      "road"
+    ]
+  },
+  "🛤": {
+    "char": "🛤",
+    "keywords": [
+      "railway",
+      "train"
+    ]
+  },
+  "⛽": {
+    "char": "⛽",
+    "keywords": [
+      "fuel",
+      "fuelpump",
+      "gas",
+      "pump",
+      "station"
+    ]
+  },
+  "🚨": {
+    "char": "🚨",
+    "keywords": [
+      "beacon",
+      "car",
+      "light",
+      "police",
+      "revolving"
+    ]
+  },
+  "🚥": {
+    "char": "🚥",
+    "keywords": [
+      "light",
+      "signal",
+      "traffic"
+    ]
+  },
+  "🚦": {
+    "char": "🚦",
+    "keywords": [
+      "light",
+      "signal",
+      "traffic"
+    ]
+  },
+  "🚧": {
+    "char": "🚧",
+    "keywords": [
+      "barrier"
+    ]
+  },
+  "🛑": {
+    "char": "🛑",
+    "keywords": [
+      "octagonal",
+      "sign",
+      "stop"
+    ]
+  },
+  "⚓": {
+    "char": "⚓",
+    "keywords": [
+      "ship",
+      "tool"
+    ]
+  },
+  "⛵": {
+    "char": "⛵",
+    "keywords": [
+      "boat",
+      "resort",
+      "sea",
+      "yacht"
+    ]
+  },
+  "🛶": {
+    "char": "🛶",
+    "keywords": [
+      "boat",
+      "canoe"
+    ]
+  },
+  "🚤": {
+    "char": "🚤",
+    "keywords": [
+      "boat"
+    ]
+  },
+  "🛳": {
+    "char": "🛳",
+    "keywords": [
+      "passenger",
+      "ship"
+    ]
+  },
+  "⛴": {
+    "char": "⛴",
+    "keywords": [
+      "boat",
+      "passenger"
+    ]
+  },
+  "🛥": {
+    "char": "🛥",
+    "keywords": [
+      "boat",
+      "motorboat"
+    ]
+  },
+  "🚢": {
+    "char": "🚢",
+    "keywords": [
+      "boat",
+      "passenger"
+    ]
+  },
+  "✈": {
+    "char": "✈",
+    "keywords": [
+      "aeroplane",
+      "airplane"
+    ]
+  },
+  "🛩": {
+    "char": "🛩",
+    "keywords": [
+      "aeroplane",
+      "airplane"
+    ]
+  },
+  "🛫": {
+    "char": "🛫",
+    "keywords": [
+      "aeroplane",
+      "airplane",
+      "check-in",
+      "departure",
+      "departures"
+    ]
+  },
+  "🛬": {
+    "char": "🛬",
+    "keywords": [
+      "aeroplane",
+      "airplane",
+      "arrivals",
+      "arriving",
+      "landing"
+    ]
+  },
+  "💺": {
+    "char": "💺",
+    "keywords": [
+      "chair"
+    ]
+  },
+  "🚁": {
+    "char": "🚁",
+    "keywords": [
+      "vehicle"
+    ]
+  },
+  "🚟": {
+    "char": "🚟",
+    "keywords": [
+      "railway",
+      "suspension"
+    ]
+  },
+  "🚠": {
+    "char": "🚠",
+    "keywords": [
+      "cable",
+      "gondola",
+      "mountain"
+    ]
+  },
+  "🚡": {
+    "char": "🚡",
+    "keywords": [
+      "aerial",
+      "cable",
+      "car",
+      "gondola",
+      "tramway"
+    ]
+  },
+  "🚀": {
+    "char": "🚀",
+    "keywords": [
+      "space"
+    ]
+  },
+  "🛰": {
+    "char": "🛰",
+    "keywords": [
+      "space"
+    ]
+  },
+  "🛎": {
+    "char": "🛎",
+    "keywords": [
+      "bell",
+      "bellhop",
+      "hotel"
+    ]
+  },
+  "🚪": {
+    "char": "🚪",
+    "keywords": [
+      "door"
+    ]
+  },
+  "🛌": {
+    "char": "🛌",
+    "keywords": [
+      "hotel",
+      "sleep"
+    ]
+  },
+  "🛏": {
+    "char": "🛏",
+    "keywords": [
+      "hotel",
+      "sleep"
+    ]
+  },
+  "🛋": {
+    "char": "🛋",
+    "keywords": [
+      "couch",
+      "hotel",
+      "lamp"
+    ]
+  },
+  "🚽": {
+    "char": "🚽",
+    "keywords": [
+      "toilet"
+    ]
+  },
+  "🚿": {
+    "char": "🚿",
+    "keywords": [
+      "water"
+    ]
+  },
+  "🛀": {
+    "char": "🛀",
+    "keywords": [
+      "bath",
+      "bathtub"
+    ]
+  },
+  "🛁": {
+    "char": "🛁",
+    "keywords": [
+      "bath"
+    ]
+  },
+  "⌛": {
+    "char": "⌛",
+    "keywords": [
+      "sand",
+      "timer"
+    ]
+  },
+  "⏳": {
+    "char": "⏳",
+    "keywords": [
+      "hourglass",
+      "sand",
+      "timer"
+    ]
+  },
+  "⌚": {
+    "char": "⌚",
+    "keywords": [
+      "clock"
+    ]
+  },
+  "⏰": {
+    "char": "⏰",
+    "keywords": [
+      "alarm",
+      "clock"
+    ]
+  },
+  "⏱": {
+    "char": "⏱",
+    "keywords": [
+      "clock"
+    ]
+  },
+  "⏲": {
+    "char": "⏲",
+    "keywords": [
+      "clock",
+      "timer"
+    ]
+  },
+  "🕰": {
+    "char": "🕰",
+    "keywords": [
+      "clock"
+    ]
+  },
+  "🕛": {
+    "char": "🕛",
+    "keywords": [
+      "00",
+      "12",
+      "12:00",
+      "clock",
+      "o’clock",
+      "twelve"
+    ]
+  },
+  "🕧": {
+    "char": "🕧",
+    "keywords": [
+      "12",
+      "12:30",
+      "30",
+      "clock",
+      "thirty",
+      "twelve"
+    ]
+  },
+  "🕐": {
+    "char": "🕐",
+    "keywords": [
+      "00",
+      "1",
+      "1:00",
+      "clock",
+      "o’clock",
+      "one"
+    ]
+  },
+  "🕜": {
+    "char": "🕜",
+    "keywords": [
+      "1",
+      "1:30",
+      "30",
+      "clock",
+      "one",
+      "thirty"
+    ]
+  },
+  "🕑": {
+    "char": "🕑",
+    "keywords": [
+      "00",
+      "2",
+      "2:00",
+      "clock",
+      "o’clock",
+      "two"
+    ]
+  },
+  "🕝": {
+    "char": "🕝",
+    "keywords": [
+      "2",
+      "2:30",
+      "30",
+      "clock",
+      "thirty",
+      "two"
+    ]
+  },
+  "🕒": {
+    "char": "🕒",
+    "keywords": [
+      "00",
+      "3",
+      "3:00",
+      "clock",
+      "o’clock",
+      "three"
+    ]
+  },
+  "🕞": {
+    "char": "🕞",
+    "keywords": [
+      "3",
+      "3:30",
+      "30",
+      "clock",
+      "thirty",
+      "three"
+    ]
+  },
+  "🕓": {
+    "char": "🕓",
+    "keywords": [
+      "00",
+      "4",
+      "4:00",
+      "clock",
+      "four",
+      "o’clock"
+    ]
+  },
+  "🕟": {
+    "char": "🕟",
+    "keywords": [
+      "30",
+      "4",
+      "4:30",
+      "clock",
+      "four",
+      "thirty"
+    ]
+  },
+  "🕔": {
+    "char": "🕔",
+    "keywords": [
+      "00",
+      "5",
+      "5:00",
+      "clock",
+      "five",
+      "o’clock"
+    ]
+  },
+  "🕠": {
+    "char": "🕠",
+    "keywords": [
+      "30",
+      "5",
+      "5:30",
+      "clock",
+      "five",
+      "thirty"
+    ]
+  },
+  "🕕": {
+    "char": "🕕",
+    "keywords": [
+      "00",
+      "6",
+      "6:00",
+      "clock",
+      "o’clock",
+      "six"
+    ]
+  },
+  "🕡": {
+    "char": "🕡",
+    "keywords": [
+      "30",
+      "6",
+      "6:30",
+      "clock",
+      "six",
+      "thirty"
+    ]
+  },
+  "🕖": {
+    "char": "🕖",
+    "keywords": [
+      "00",
+      "7",
+      "7:00",
+      "clock",
+      "o’clock",
+      "seven"
+    ]
+  },
+  "🕢": {
+    "char": "🕢",
+    "keywords": [
+      "30",
+      "7",
+      "7:30",
+      "clock",
+      "seven",
+      "thirty"
+    ]
+  },
+  "🕗": {
+    "char": "🕗",
+    "keywords": [
+      "00",
+      "8",
+      "8:00",
+      "clock",
+      "eight",
+      "o’clock"
+    ]
+  },
+  "🕣": {
+    "char": "🕣",
+    "keywords": [
+      "30",
+      "8",
+      "8:30",
+      "clock",
+      "eight",
+      "thirty"
+    ]
+  },
+  "🕘": {
+    "char": "🕘",
+    "keywords": [
+      "00",
+      "9",
+      "9:00",
+      "clock",
+      "nine",
+      "o’clock"
+    ]
+  },
+  "🕤": {
+    "char": "🕤",
+    "keywords": [
+      "30",
+      "9",
+      "9:30",
+      "clock",
+      "nine",
+      "thirty"
+    ]
+  },
+  "🕙": {
+    "char": "🕙",
+    "keywords": [
+      "00",
+      "10",
+      "10:00",
+      "clock",
+      "o’clock",
+      "ten"
+    ]
+  },
+  "🕥": {
+    "char": "🕥",
+    "keywords": [
+      "10",
+      "10:30",
+      "30",
+      "clock",
+      "ten",
+      "thirty"
+    ]
+  },
+  "🕚": {
+    "char": "🕚",
+    "keywords": [
+      "00",
+      "11",
+      "11:00",
+      "clock",
+      "eleven",
+      "o’clock"
+    ]
+  },
+  "🕦": {
+    "char": "🕦",
+    "keywords": [
+      "11",
+      "11:30",
+      "30",
+      "clock",
+      "eleven",
+      "thirty"
+    ]
+  },
+  "🌑": {
+    "char": "🌑",
+    "keywords": [
+      "dark",
+      "moon"
+    ]
+  },
+  "🌒": {
+    "char": "🌒",
+    "keywords": [
+      "crescent",
+      "moon",
+      "waxing"
+    ]
+  },
+  "🌓": {
+    "char": "🌓",
+    "keywords": [
+      "moon",
+      "quarter"
+    ]
+  },
+  "🌔": {
+    "char": "🌔",
+    "keywords": [
+      "gibbous",
+      "moon",
+      "waxing"
+    ]
+  },
+  "🌕": {
+    "char": "🌕",
+    "keywords": [
+      "full",
+      "moon"
+    ]
+  },
+  "🌖": {
+    "char": "🌖",
+    "keywords": [
+      "gibbous",
+      "moon",
+      "waning"
+    ]
+  },
+  "🌗": {
+    "char": "🌗",
+    "keywords": [
+      "moon",
+      "quarter"
+    ]
+  },
+  "🌘": {
+    "char": "🌘",
+    "keywords": [
+      "crescent",
+      "moon",
+      "waning"
+    ]
+  },
+  "🌙": {
+    "char": "🌙",
+    "keywords": [
+      "crescent",
+      "moon"
+    ]
+  },
+  "🌚": {
+    "char": "🌚",
+    "keywords": [
+      "face",
+      "moon"
+    ]
+  },
+  "🌛": {
+    "char": "🌛",
+    "keywords": [
+      "face",
+      "moon",
+      "quarter"
+    ]
+  },
+  "🌜": {
+    "char": "🌜",
+    "keywords": [
+      "face",
+      "moon",
+      "quarter"
+    ]
+  },
+  "🌡": {
+    "char": "🌡",
+    "keywords": [
+      "weather"
+    ]
+  },
+  "☀": {
+    "char": "☀",
+    "keywords": [
+      "bright",
+      "rays",
+      "sunny"
+    ]
+  },
+  "🌝": {
+    "char": "🌝",
+    "keywords": [
+      "bright",
+      "face",
+      "full",
+      "moon"
+    ]
+  },
+  "🌞": {
+    "char": "🌞",
+    "keywords": [
+      "bright",
+      "face",
+      "sun"
+    ]
+  },
+  "⭐": {
+    "char": "⭐",
+    "keywords": [
+      "star"
+    ]
+  },
+  "🌟": {
+    "char": "🌟",
+    "keywords": [
+      "glittery",
+      "glow",
+      "shining",
+      "sparkle",
+      "star"
+    ]
+  },
+  "🌠": {
+    "char": "🌠",
+    "keywords": [
+      "falling",
+      "shooting",
+      "star"
+    ]
+  },
+  "☁": {
+    "char": "☁",
+    "keywords": [
+      "weather"
+    ]
+  },
+  "⛅": {
+    "char": "⛅",
+    "keywords": [
+      "cloud",
+      "sun"
+    ]
+  },
+  "⛈": {
+    "char": "⛈",
+    "keywords": [
+      "cloud",
+      "rain",
+      "thunder"
+    ]
+  },
+  "🌤": {
+    "char": "🌤",
+    "keywords": [
+      "cloud",
+      "sun"
+    ]
+  },
+  "🌥": {
+    "char": "🌥",
+    "keywords": [
+      "cloud",
+      "sun"
+    ]
+  },
+  "🌦": {
+    "char": "🌦",
+    "keywords": [
+      "cloud",
+      "rain",
+      "sun"
+    ]
+  },
+  "🌧": {
+    "char": "🌧",
+    "keywords": [
+      "cloud",
+      "rain"
+    ]
+  },
+  "🌨": {
+    "char": "🌨",
+    "keywords": [
+      "cloud",
+      "cold",
+      "snow"
+    ]
+  },
+  "🌩": {
+    "char": "🌩",
+    "keywords": [
+      "cloud",
+      "lightning"
+    ]
+  },
+  "🌪": {
+    "char": "🌪",
+    "keywords": [
+      "cloud",
+      "whirlwind"
+    ]
+  },
+  "🌫": {
+    "char": "🌫",
+    "keywords": [
+      "cloud"
+    ]
+  },
+  "🌬": {
+    "char": "🌬",
+    "keywords": [
+      "blow",
+      "cloud",
+      "face",
+      "wind"
+    ]
+  },
+  "🌀": {
+    "char": "🌀",
+    "keywords": [
+      "dizzy",
+      "twister",
+      "typhoon"
+    ]
+  },
+  "🌈": {
+    "char": "🌈",
+    "keywords": [
+      "rain"
+    ]
+  },
+  "🌂": {
+    "char": "🌂",
+    "keywords": [
+      "clothing",
+      "rain",
+      "umbrella"
+    ]
+  },
+  "☂": {
+    "char": "☂",
+    "keywords": [
+      "clothing",
+      "rain"
+    ]
+  },
+  "☔": {
+    "char": "☔",
+    "keywords": [
+      "clothing",
+      "drop",
+      "rain",
+      "umbrella"
+    ]
+  },
+  "⛱": {
+    "char": "⛱",
+    "keywords": [
+      "rain",
+      "sun",
+      "umbrella"
+    ]
+  },
+  "⚡": {
+    "char": "⚡",
+    "keywords": [
+      "danger",
+      "electric",
+      "electricity",
+      "lightning",
+      "voltage",
+      "zap"
+    ]
+  },
+  "❄": {
+    "char": "❄",
+    "keywords": [
+      "cold",
+      "snow"
+    ]
+  },
+  "☃": {
+    "char": "☃",
+    "keywords": [
+      "cold",
+      "snow"
+    ]
+  },
+  "⛄": {
+    "char": "⛄",
+    "keywords": [
+      "cold",
+      "snow",
+      "snowman"
+    ]
+  },
+  "☄": {
+    "char": "☄",
+    "keywords": [
+      "space"
+    ]
+  },
+  "🔥": {
+    "char": "🔥",
+    "keywords": [
+      "flame",
+      "tool"
+    ]
+  },
+  "💧": {
+    "char": "💧",
+    "keywords": [
+      "cold",
+      "comic",
+      "drop",
+      "sweat"
+    ]
+  },
+  "🌊": {
+    "char": "🌊",
+    "keywords": [
+      "ocean",
+      "water",
+      "wave"
+    ]
+  },
+  "🎃": {
+    "char": "🎃",
+    "keywords": [
+      "celebration",
+      "halloween",
+      "jack",
+      "lantern"
+    ]
+  },
+  "🎄": {
+    "char": "🎄",
+    "keywords": [
+      "celebration",
+      "Christmas",
+      "tree"
+    ]
+  },
+  "🎆": {
+    "char": "🎆",
+    "keywords": [
+      "celebration"
+    ]
+  },
+  "🎇": {
+    "char": "🎇",
+    "keywords": [
+      "celebration",
+      "fireworks",
+      "sparkle"
+    ]
+  },
+  "✨": {
+    "char": "✨",
+    "keywords": [
+      "sparkle",
+      "star"
+    ]
+  },
+  "🎈": {
+    "char": "🎈",
+    "keywords": [
+      "celebration"
+    ]
+  },
+  "🎉": {
+    "char": "🎉",
+    "keywords": [
+      "celebration",
+      "party",
+      "popper",
+      "tada"
+    ]
+  },
+  "🎊": {
+    "char": "🎊",
+    "keywords": [
+      "ball",
+      "celebration",
+      "confetti"
+    ]
+  },
+  "🎋": {
+    "char": "🎋",
+    "keywords": [
+      "banner",
+      "celebration",
+      "Japanese",
+      "tree"
+    ]
+  },
+  "🎍": {
+    "char": "🎍",
+    "keywords": [
+      "bamboo",
+      "celebration",
+      "Japanese",
+      "pine"
+    ]
+  },
+  "🎎": {
+    "char": "🎎",
+    "keywords": [
+      "celebration",
+      "doll",
+      "festival",
+      "Japanese"
+    ]
+  },
+  "🎏": {
+    "char": "🎏",
+    "keywords": [
+      "carp",
+      "celebration",
+      "streamer"
+    ]
+  },
+  "🎐": {
+    "char": "🎐",
+    "keywords": [
+      "bell",
+      "celebration",
+      "chime",
+      "wind"
+    ]
+  },
+  "🎑": {
+    "char": "🎑",
+    "keywords": [
+      "celebration",
+      "ceremony",
+      "moon"
+    ]
+  },
+  "🎀": {
+    "char": "🎀",
+    "keywords": [
+      "celebration"
+    ]
+  },
+  "🎁": {
+    "char": "🎁",
+    "keywords": [
+      "box",
+      "celebration",
+      "gift",
+      "present",
+      "wrapped"
+    ]
+  },
+  "🎗": {
+    "char": "🎗",
+    "keywords": [
+      "celebration",
+      "reminder",
+      "ribbon"
+    ]
+  },
+  "🎟": {
+    "char": "🎟",
+    "keywords": [
+      "admission",
+      "ticket"
+    ]
+  },
+  "🎫": {
+    "char": "🎫",
+    "keywords": [
+      "admission"
+    ]
+  },
+  "🎖": {
+    "char": "🎖",
+    "keywords": [
+      "celebration",
+      "medal",
+      "military"
+    ]
+  },
+  "🏆": {
+    "char": "🏆",
+    "keywords": [
+      "prize"
+    ]
+  },
+  "🏅": {
+    "char": "🏅",
+    "keywords": [
+      "medal"
+    ]
+  },
+  "🥇": {
+    "char": "🥇",
+    "keywords": [
+      "first",
+      "gold",
+      "medal"
+    ]
+  },
+  "🥈": {
+    "char": "🥈",
+    "keywords": [
+      "medal",
+      "second",
+      "silver"
+    ]
+  },
+  "🥉": {
+    "char": "🥉",
+    "keywords": [
+      "bronze",
+      "medal",
+      "third"
+    ]
+  },
+  "⚽": {
+    "char": "⚽",
+    "keywords": [
+      "ball",
+      "football",
+      "soccer"
+    ]
+  },
+  "⚾": {
+    "char": "⚾",
+    "keywords": [
+      "ball"
+    ]
+  },
+  "🏀": {
+    "char": "🏀",
+    "keywords": [
+      "ball",
+      "hoop"
+    ]
+  },
+  "🏐": {
+    "char": "🏐",
+    "keywords": [
+      "ball",
+      "game"
+    ]
+  },
+  "🏈": {
+    "char": "🏈",
+    "keywords": [
+      "american",
+      "ball",
+      "football"
+    ]
+  },
+  "🏉": {
+    "char": "🏉",
+    "keywords": [
+      "ball",
+      "football",
+      "rugby"
+    ]
+  },
+  "🎾": {
+    "char": "🎾",
+    "keywords": [
+      "ball",
+      "racquet"
+    ]
+  },
+  "🎱": {
+    "char": "🎱",
+    "keywords": [
+      "8",
+      "8 ball",
+      "ball",
+      "billiard",
+      "eight",
+      "game"
+    ]
+  },
+  "🎳": {
+    "char": "🎳",
+    "keywords": [
+      "ball",
+      "game"
+    ]
+  },
+  "🏏": {
+    "char": "🏏",
+    "keywords": [
+      "ball",
+      "bat",
+      "game"
+    ]
+  },
+  "🏑": {
+    "char": "🏑",
+    "keywords": [
+      "ball",
+      "field",
+      "game",
+      "hockey",
+      "stick"
+    ]
+  },
+  "🏒": {
+    "char": "🏒",
+    "keywords": [
+      "game",
+      "hockey",
+      "ice",
+      "puck",
+      "stick"
+    ]
+  },
+  "🏓": {
+    "char": "🏓",
+    "keywords": [
+      "ball",
+      "bat",
+      "game",
+      "paddle",
+      "ping pong",
+      "table tennis"
+    ]
+  },
+  "🏸": {
+    "char": "🏸",
+    "keywords": [
+      "birdie",
+      "game",
+      "racquet",
+      "shuttlecock"
+    ]
+  },
+  "🥊": {
+    "char": "🥊",
+    "keywords": [
+      "boxing",
+      "glove"
+    ]
+  },
+  "🥋": {
+    "char": "🥋",
+    "keywords": [
+      "judo",
+      "karate",
+      "martial arts",
+      "taekwondo",
+      "uniform"
+    ]
+  },
+  "🥅": {
+    "char": "🥅",
+    "keywords": [
+      "goal",
+      "net"
+    ]
+  },
+  "🎯": {
+    "char": "🎯",
+    "keywords": [
+      "bull",
+      "bullseye",
+      "dart",
+      "eye",
+      "game",
+      "hit",
+      "target"
+    ]
+  },
+  "⛳": {
+    "char": "⛳",
+    "keywords": [
+      "golf",
+      "hole"
+    ]
+  },
+  "⛸": {
+    "char": "⛸",
+    "keywords": [
+      "ice",
+      "skate"
+    ]
+  },
+  "🎣": {
+    "char": "🎣",
+    "keywords": [
+      "fish",
+      "pole"
+    ]
+  },
+  "🎽": {
+    "char": "🎽",
+    "keywords": [
+      "athletics",
+      "running",
+      "sash",
+      "shirt"
+    ]
+  },
+  "🎿": {
+    "char": "🎿",
+    "keywords": [
+      "ski",
+      "snow"
+    ]
+  },
+  "🎮": {
+    "char": "🎮",
+    "keywords": [
+      "controller",
+      "game"
+    ]
+  },
+  "🕹": {
+    "char": "🕹",
+    "keywords": [
+      "game",
+      "video game"
+    ]
+  },
+  "🎲": {
+    "char": "🎲",
+    "keywords": [
+      "dice",
+      "die",
+      "game"
+    ]
+  },
+  "♠": {
+    "char": "♠",
+    "keywords": [
+      "card",
+      "game"
+    ]
+  },
+  "♥": {
+    "char": "♥",
+    "keywords": [
+      "card",
+      "game"
+    ]
+  },
+  "♦": {
+    "char": "♦",
+    "keywords": [
+      "card",
+      "game"
+    ]
+  },
+  "♣": {
+    "char": "♣",
+    "keywords": [
+      "card",
+      "game"
+    ]
+  },
+  "🃏": {
+    "char": "🃏",
+    "keywords": [
+      "card",
+      "game",
+      "wildcard"
+    ]
+  },
+  "🀄": {
+    "char": "🀄",
+    "keywords": [
+      "game",
+      "mahjong",
+      "red"
+    ]
+  },
+  "🎴": {
+    "char": "🎴",
+    "keywords": [
+      "card",
+      "flower",
+      "game",
+      "Japanese",
+      "playing"
+    ]
+  },
+  "🔇": {
+    "char": "🔇",
+    "keywords": [
+      "mute",
+      "quiet",
+      "silent",
+      "speaker"
+    ]
+  },
+  "🔈": {
+    "char": "🔈",
+    "keywords": [
+      "soft"
+    ]
+  },
+  "🔉": {
+    "char": "🔉",
+    "keywords": [
+      "medium"
+    ]
+  },
+  "🔊": {
+    "char": "🔊",
+    "keywords": [
+      "loud"
+    ]
+  },
+  "📢": {
+    "char": "📢",
+    "keywords": [
+      "loud",
+      "public address"
+    ]
+  },
+  "📣": {
+    "char": "📣",
+    "keywords": [
+      "cheering"
+    ]
+  },
+  "📯": {
+    "char": "📯",
+    "keywords": [
+      "horn",
+      "post",
+      "postal"
+    ]
+  },
+  "🔔": {
+    "char": "🔔",
+    "keywords": [
+      "bell"
+    ]
+  },
+  "🔕": {
+    "char": "🔕",
+    "keywords": [
+      "bell",
+      "forbidden",
+      "mute",
+      "no",
+      "not",
+      "prohibited",
+      "quiet",
+      "silent"
+    ]
+  },
+  "🎼": {
+    "char": "🎼",
+    "keywords": [
+      "music",
+      "score"
+    ]
+  },
+  "🎵": {
+    "char": "🎵",
+    "keywords": [
+      "music",
+      "note"
+    ]
+  },
+  "🎶": {
+    "char": "🎶",
+    "keywords": [
+      "music",
+      "note",
+      "notes"
+    ]
+  },
+  "🎙": {
+    "char": "🎙",
+    "keywords": [
+      "mic",
+      "microphone",
+      "music",
+      "studio"
+    ]
+  },
+  "🎚": {
+    "char": "🎚",
+    "keywords": [
+      "level",
+      "music",
+      "slider"
+    ]
+  },
+  "🎛": {
+    "char": "🎛",
+    "keywords": [
+      "control",
+      "knobs",
+      "music"
+    ]
+  },
+  "🎤": {
+    "char": "🎤",
+    "keywords": [
+      "karaoke",
+      "mic"
+    ]
+  },
+  "🎧": {
+    "char": "🎧",
+    "keywords": [
+      "earbud"
+    ]
+  },
+  "📻": {
+    "char": "📻",
+    "keywords": [
+      "video"
+    ]
+  },
+  "🎷": {
+    "char": "🎷",
+    "keywords": [
+      "instrument",
+      "music",
+      "sax"
+    ]
+  },
+  "🎸": {
+    "char": "🎸",
+    "keywords": [
+      "instrument",
+      "music"
+    ]
+  },
+  "🎹": {
+    "char": "🎹",
+    "keywords": [
+      "instrument",
+      "keyboard",
+      "music",
+      "piano"
+    ]
+  },
+  "🎺": {
+    "char": "🎺",
+    "keywords": [
+      "instrument",
+      "music"
+    ]
+  },
+  "🎻": {
+    "char": "🎻",
+    "keywords": [
+      "instrument",
+      "music"
+    ]
+  },
+  "🥁": {
+    "char": "🥁",
+    "keywords": [
+      "drum",
+      "drumsticks",
+      "music"
+    ]
+  },
+  "📱": {
+    "char": "📱",
+    "keywords": [
+      "cell",
+      "mobile",
+      "phone",
+      "telephone"
+    ]
+  },
+  "📲": {
+    "char": "📲",
+    "keywords": [
+      "arrow",
+      "call",
+      "cell",
+      "mobile",
+      "phone",
+      "receive",
+      "telephone"
+    ]
+  },
+  "☎": {
+    "char": "☎",
+    "keywords": [
+      "phone"
+    ]
+  },
+  "📞": {
+    "char": "📞",
+    "keywords": [
+      "phone",
+      "receiver",
+      "telephone"
+    ]
+  },
+  "📟": {
+    "char": "📟",
+    "keywords": [
+      "pager"
+    ]
+  },
+  "📠": {
+    "char": "📠",
+    "keywords": [
+      "fax"
+    ]
+  },
+  "🔋": {
+    "char": "🔋",
+    "keywords": [
+      "battery"
+    ]
+  },
+  "🔌": {
+    "char": "🔌",
+    "keywords": [
+      "electric",
+      "electricity",
+      "plug"
+    ]
+  },
+  "💻": {
+    "char": "💻",
+    "keywords": [
+      "computer",
+      "pc",
+      "personal"
+    ]
+  },
+  "🖥": {
+    "char": "🖥",
+    "keywords": [
+      "computer",
+      "desktop"
+    ]
+  },
+  "🖨": {
+    "char": "🖨",
+    "keywords": [
+      "computer"
+    ]
+  },
+  "⌨": {
+    "char": "⌨",
+    "keywords": [
+      "computer"
+    ]
+  },
+  "🖱": {
+    "char": "🖱",
+    "keywords": [
+      "computer"
+    ]
+  },
+  "🖲": {
+    "char": "🖲",
+    "keywords": [
+      "computer"
+    ]
+  },
+  "💽": {
+    "char": "💽",
+    "keywords": [
+      "computer",
+      "disk",
+      "minidisk",
+      "optical"
+    ]
+  },
+  "💾": {
+    "char": "💾",
+    "keywords": [
+      "computer",
+      "disk",
+      "floppy"
+    ]
+  },
+  "💿": {
+    "char": "💿",
+    "keywords": [
+      "cd",
+      "computer",
+      "disk",
+      "optical"
+    ]
+  },
+  "📀": {
+    "char": "📀",
+    "keywords": [
+      "blu-ray",
+      "computer",
+      "disk",
+      "dvd",
+      "optical"
+    ]
+  },
+  "🎥": {
+    "char": "🎥",
+    "keywords": [
+      "camera",
+      "cinema",
+      "movie"
+    ]
+  },
+  "🎞": {
+    "char": "🎞",
+    "keywords": [
+      "cinema",
+      "film",
+      "frames",
+      "movie"
+    ]
+  },
+  "📽": {
+    "char": "📽",
+    "keywords": [
+      "cinema",
+      "film",
+      "movie",
+      "projector",
+      "video"
+    ]
+  },
+  "🎬": {
+    "char": "🎬",
+    "keywords": [
+      "clapper",
+      "movie"
+    ]
+  },
+  "📺": {
+    "char": "📺",
+    "keywords": [
+      "tv",
+      "video"
+    ]
+  },
+  "📷": {
+    "char": "📷",
+    "keywords": [
+      "video"
+    ]
+  },
+  "📸": {
+    "char": "📸",
+    "keywords": [
+      "camera",
+      "flash",
+      "video"
+    ]
+  },
+  "📹": {
+    "char": "📹",
+    "keywords": [
+      "camera",
+      "video"
+    ]
+  },
+  "📼": {
+    "char": "📼",
+    "keywords": [
+      "tape",
+      "vhs",
+      "video"
+    ]
+  },
+  "🔍": {
+    "char": "🔍",
+    "keywords": [
+      "glass",
+      "magnifying",
+      "search",
+      "tool"
+    ]
+  },
+  "🔎": {
+    "char": "🔎",
+    "keywords": [
+      "glass",
+      "magnifying",
+      "search",
+      "tool"
+    ]
+  },
+  "🔬": {
+    "char": "🔬",
+    "keywords": [
+      "science",
+      "tool"
+    ]
+  },
+  "🔭": {
+    "char": "🔭",
+    "keywords": [
+      "science",
+      "tool"
+    ]
+  },
+  "📡": {
+    "char": "📡",
+    "keywords": [
+      "antenna",
+      "dish",
+      "satellite"
+    ]
+  },
+  "🕯": {
+    "char": "🕯",
+    "keywords": [
+      "light"
+    ]
+  },
+  "💡": {
+    "char": "💡",
+    "keywords": [
+      "bulb",
+      "comic",
+      "electric",
+      "idea",
+      "light"
+    ]
+  },
+  "🔦": {
+    "char": "🔦",
+    "keywords": [
+      "electric",
+      "light",
+      "tool",
+      "torch"
+    ]
+  },
+  "🏮": {
+    "char": "🏮",
+    "keywords": [
+      "bar",
+      "Japanese",
+      "lantern",
+      "light",
+      "red"
+    ]
+  },
+  "📔": {
+    "char": "📔",
+    "keywords": [
+      "book",
+      "cover",
+      "decorated",
+      "notebook"
+    ]
+  },
+  "📕": {
+    "char": "📕",
+    "keywords": [
+      "book",
+      "closed"
+    ]
+  },
+  "📖": {
+    "char": "📖",
+    "keywords": [
+      "book",
+      "open"
+    ]
+  },
+  "📗": {
+    "char": "📗",
+    "keywords": [
+      "book",
+      "green"
+    ]
+  },
+  "📘": {
+    "char": "📘",
+    "keywords": [
+      "blue",
+      "book"
+    ]
+  },
+  "📙": {
+    "char": "📙",
+    "keywords": [
+      "book",
+      "orange"
+    ]
+  },
+  "📚": {
+    "char": "📚",
+    "keywords": [
+      "book"
+    ]
+  },
+  "📓": {
+    "char": "📓",
+    "keywords": [
+      "notebook"
+    ]
+  },
+  "📒": {
+    "char": "📒",
+    "keywords": [
+      "notebook"
+    ]
+  },
+  "📃": {
+    "char": "📃",
+    "keywords": [
+      "curl",
+      "document",
+      "page"
+    ]
+  },
+  "📜": {
+    "char": "📜",
+    "keywords": [
+      "paper"
+    ]
+  },
+  "📄": {
+    "char": "📄",
+    "keywords": [
+      "document",
+      "page"
+    ]
+  },
+  "📰": {
+    "char": "📰",
+    "keywords": [
+      "news",
+      "paper"
+    ]
+  },
+  "🗞": {
+    "char": "🗞",
+    "keywords": [
+      "news",
+      "newspaper",
+      "paper",
+      "rolled"
+    ]
+  },
+  "📑": {
+    "char": "📑",
+    "keywords": [
+      "bookmark",
+      "mark",
+      "marker",
+      "tabs"
+    ]
+  },
+  "🔖": {
+    "char": "🔖",
+    "keywords": [
+      "mark"
+    ]
+  },
+  "🏷": {
+    "char": "🏷",
+    "keywords": [
+      "label"
+    ]
+  },
+  "💰": {
+    "char": "💰",
+    "keywords": [
+      "bag",
+      "dollar",
+      "money",
+      "moneybag"
+    ]
+  },
+  "💴": {
+    "char": "💴",
+    "keywords": [
+      "bank",
+      "banknote",
+      "bill",
+      "currency",
+      "money",
+      "note",
+      "yen"
+    ]
+  },
+  "💵": {
+    "char": "💵",
+    "keywords": [
+      "bank",
+      "banknote",
+      "bill",
+      "currency",
+      "dollar",
+      "money",
+      "note"
+    ]
+  },
+  "💶": {
+    "char": "💶",
+    "keywords": [
+      "bank",
+      "banknote",
+      "bill",
+      "currency",
+      "euro",
+      "money",
+      "note"
+    ]
+  },
+  "💷": {
+    "char": "💷",
+    "keywords": [
+      "bank",
+      "banknote",
+      "bill",
+      "currency",
+      "money",
+      "note",
+      "pound"
+    ]
+  },
+  "💸": {
+    "char": "💸",
+    "keywords": [
+      "bank",
+      "banknote",
+      "bill",
+      "dollar",
+      "fly",
+      "money",
+      "note",
+      "wings"
+    ]
+  },
+  "💳": {
+    "char": "💳",
+    "keywords": [
+      "bank",
+      "card",
+      "credit",
+      "money"
+    ]
+  },
+  "💹": {
+    "char": "💹",
+    "keywords": [
+      "bank",
+      "chart",
+      "currency",
+      "graph",
+      "growth",
+      "market",
+      "money",
+      "rise",
+      "trend",
+      "upward",
+      "yen"
+    ]
+  },
+  "💱": {
+    "char": "💱",
+    "keywords": [
+      "bank",
+      "currency",
+      "exchange",
+      "money"
+    ]
+  },
+  "💲": {
+    "char": "💲",
+    "keywords": [
+      "currency",
+      "dollar",
+      "money"
+    ]
+  },
+  "✉": {
+    "char": "✉",
+    "keywords": [
+      "email",
+      "letter"
+    ]
+  },
+  "📧": {
+    "char": "📧",
+    "keywords": [
+      "email",
+      "letter",
+      "mail"
+    ]
+  },
+  "📨": {
+    "char": "📨",
+    "keywords": [
+      "e-mail",
+      "email",
+      "envelope",
+      "incoming",
+      "letter",
+      "mail",
+      "receive"
+    ]
+  },
+  "📩": {
+    "char": "📩",
+    "keywords": [
+      "arrow",
+      "down",
+      "e-mail",
+      "email",
+      "envelope",
+      "letter",
+      "mail",
+      "outgoing",
+      "sent"
+    ]
+  },
+  "📤": {
+    "char": "📤",
+    "keywords": [
+      "box",
+      "letter",
+      "mail",
+      "outbox",
+      "sent",
+      "tray"
+    ]
+  },
+  "📥": {
+    "char": "📥",
+    "keywords": [
+      "box",
+      "inbox",
+      "letter",
+      "mail",
+      "receive",
+      "tray"
+    ]
+  },
+  "📦": {
+    "char": "📦",
+    "keywords": [
+      "box",
+      "parcel"
+    ]
+  },
+  "📫": {
+    "char": "📫",
+    "keywords": [
+      "closed",
+      "mail",
+      "mailbox",
+      "postbox"
+    ]
+  },
+  "📪": {
+    "char": "📪",
+    "keywords": [
+      "closed",
+      "lowered",
+      "mail",
+      "mailbox",
+      "postbox"
+    ]
+  },
+  "📬": {
+    "char": "📬",
+    "keywords": [
+      "mail",
+      "mailbox",
+      "open",
+      "postbox"
+    ]
+  },
+  "📭": {
+    "char": "📭",
+    "keywords": [
+      "lowered",
+      "mail",
+      "mailbox",
+      "open",
+      "postbox"
+    ]
+  },
+  "📮": {
+    "char": "📮",
+    "keywords": [
+      "mail",
+      "mailbox"
+    ]
+  },
+  "🗳": {
+    "char": "🗳",
+    "keywords": [
+      "ballot",
+      "box"
+    ]
+  },
+  "✏": {
+    "char": "✏",
+    "keywords": [
+      "pencil"
+    ]
+  },
+  "✒": {
+    "char": "✒",
+    "keywords": [
+      "nib",
+      "pen"
+    ]
+  },
+  "🖋": {
+    "char": "🖋",
+    "keywords": [
+      "fountain",
+      "pen"
+    ]
+  },
+  "🖊": {
+    "char": "🖊",
+    "keywords": [
+      "ballpoint"
+    ]
+  },
+  "🖌": {
+    "char": "🖌",
+    "keywords": [
+      "painting"
+    ]
+  },
+  "🖍": {
+    "char": "🖍",
+    "keywords": [
+      "crayon"
+    ]
+  },
+  "📝": {
+    "char": "📝",
+    "keywords": [
+      "pencil"
+    ]
+  },
+  "💼": {
+    "char": "💼",
+    "keywords": [
+      "briefcase"
+    ]
+  },
+  "📁": {
+    "char": "📁",
+    "keywords": [
+      "file",
+      "folder"
+    ]
+  },
+  "📂": {
+    "char": "📂",
+    "keywords": [
+      "file",
+      "folder",
+      "open"
+    ]
+  },
+  "🗂": {
+    "char": "🗂",
+    "keywords": [
+      "card",
+      "dividers",
+      "index"
+    ]
+  },
+  "📅": {
+    "char": "📅",
+    "keywords": [
+      "date"
+    ]
+  },
+  "📆": {
+    "char": "📆",
+    "keywords": [
+      "calendar"
+    ]
+  },
+  "🗒": {
+    "char": "🗒",
+    "keywords": [
+      "note",
+      "pad",
+      "spiral"
+    ]
+  },
+  "🗓": {
+    "char": "🗓",
+    "keywords": [
+      "calendar",
+      "pad",
+      "spiral"
+    ]
+  },
+  "📇": {
+    "char": "📇",
+    "keywords": [
+      "card",
+      "index",
+      "rolodex"
+    ]
+  },
+  "📈": {
+    "char": "📈",
+    "keywords": [
+      "chart",
+      "graph",
+      "growth",
+      "trend",
+      "upward"
+    ]
+  },
+  "📉": {
+    "char": "📉",
+    "keywords": [
+      "chart",
+      "down",
+      "graph",
+      "trend"
+    ]
+  },
+  "📊": {
+    "char": "📊",
+    "keywords": [
+      "bar",
+      "chart",
+      "graph"
+    ]
+  },
+  "📋": {
+    "char": "📋",
+    "keywords": [
+      "clipboard"
+    ]
+  },
+  "📌": {
+    "char": "📌",
+    "keywords": [
+      "pin"
+    ]
+  },
+  "📍": {
+    "char": "📍",
+    "keywords": [
+      "pin",
+      "pushpin"
+    ]
+  },
+  "📎": {
+    "char": "📎",
+    "keywords": [
+      "paperclip"
+    ]
+  },
+  "🖇": {
+    "char": "🖇",
+    "keywords": [
+      "link",
+      "paperclip"
+    ]
+  },
+  "📏": {
+    "char": "📏",
+    "keywords": [
+      "ruler",
+      "straight edge"
+    ]
+  },
+  "📐": {
+    "char": "📐",
+    "keywords": [
+      "ruler",
+      "set",
+      "triangle"
+    ]
+  },
+  "✂": {
+    "char": "✂",
+    "keywords": [
+      "cutting",
+      "tool"
+    ]
+  },
+  "🗃": {
+    "char": "🗃",
+    "keywords": [
+      "box",
+      "card",
+      "file"
+    ]
+  },
+  "🗄": {
+    "char": "🗄",
+    "keywords": [
+      "cabinet",
+      "file",
+      "filing"
+    ]
+  },
+  "🗑": {
+    "char": "🗑",
+    "keywords": [
+      "wastebasket"
+    ]
+  },
+  "🔒": {
+    "char": "🔒",
+    "keywords": [
+      "closed"
+    ]
+  },
+  "🔓": {
+    "char": "🔓",
+    "keywords": [
+      "lock",
+      "open",
+      "unlock"
+    ]
+  },
+  "🔏": {
+    "char": "🔏",
+    "keywords": [
+      "ink",
+      "lock",
+      "nib",
+      "pen",
+      "privacy"
+    ]
+  },
+  "🔐": {
+    "char": "🔐",
+    "keywords": [
+      "closed",
+      "key",
+      "lock",
+      "secure"
+    ]
+  },
+  "🔑": {
+    "char": "🔑",
+    "keywords": [
+      "lock",
+      "password"
+    ]
+  },
+  "🗝": {
+    "char": "🗝",
+    "keywords": [
+      "clue",
+      "key",
+      "lock",
+      "old"
+    ]
+  },
+  "🔨": {
+    "char": "🔨",
+    "keywords": [
+      "tool"
+    ]
+  },
+  "⛏": {
+    "char": "⛏",
+    "keywords": [
+      "mining",
+      "tool"
+    ]
+  },
+  "⚒": {
+    "char": "⚒",
+    "keywords": [
+      "hammer",
+      "pick",
+      "tool"
+    ]
+  },
+  "🛠": {
+    "char": "🛠",
+    "keywords": [
+      "hammer",
+      "spanner",
+      "tool",
+      "wrench"
+    ]
+  },
+  "🗡": {
+    "char": "🗡",
+    "keywords": [
+      "knife",
+      "weapon"
+    ]
+  },
+  "⚔": {
+    "char": "⚔",
+    "keywords": [
+      "crossed",
+      "swords",
+      "weapon"
+    ]
+  },
+  "🔫": {
+    "char": "🔫",
+    "keywords": [
+      "gun",
+      "handgun",
+      "revolver",
+      "tool",
+      "weapon"
+    ]
+  },
+  "🏹": {
+    "char": "🏹",
+    "keywords": [
+      "archer",
+      "archery",
+      "arrow",
+      "bow",
+      "Sagittarius",
+      "tool",
+      "weapon",
+      "zodiac"
+    ]
+  },
+  "🛡": {
+    "char": "🛡",
+    "keywords": [
+      "weapon"
+    ]
+  },
+  "🔧": {
+    "char": "🔧",
+    "keywords": [
+      "spanner",
+      "tool",
+      "wrench"
+    ]
+  },
+  "🔩": {
+    "char": "🔩",
+    "keywords": [
+      "bolt",
+      "nut",
+      "tool"
+    ]
+  },
+  "⚙": {
+    "char": "⚙",
+    "keywords": [
+      "tool"
+    ]
+  },
+  "🗜": {
+    "char": "🗜",
+    "keywords": [
+      "compress",
+      "tool",
+      "vice"
+    ]
+  },
+  "⚗": {
+    "char": "⚗",
+    "keywords": [
+      "chemistry",
+      "tool"
+    ]
+  },
+  "⚖": {
+    "char": "⚖",
+    "keywords": [
+      "balance",
+      "justice",
+      "Libra",
+      "scales",
+      "tool",
+      "weight",
+      "zodiac"
+    ]
+  },
+  "🔗": {
+    "char": "🔗",
+    "keywords": [
+      "link"
+    ]
+  },
+  "⛓": {
+    "char": "⛓",
+    "keywords": [
+      "chain"
+    ]
+  },
+  "💉": {
+    "char": "💉",
+    "keywords": [
+      "doctor",
+      "medicine",
+      "needle",
+      "shot",
+      "sick",
+      "tool"
+    ]
+  },
+  "💊": {
+    "char": "💊",
+    "keywords": [
+      "doctor",
+      "medicine",
+      "sick"
+    ]
+  },
+  "🚬": {
+    "char": "🚬",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  "⚰": {
+    "char": "⚰",
+    "keywords": [
+      "death"
+    ]
+  },
+  "⚱": {
+    "char": "⚱",
+    "keywords": [
+      "ashes",
+      "death",
+      "funeral",
+      "urn"
+    ]
+  },
+  "🗿": {
+    "char": "🗿",
+    "keywords": [
+      "face",
+      "moyai",
+      "statue"
+    ]
+  },
+  "🛢": {
+    "char": "🛢",
+    "keywords": [
+      "drum",
+      "oil"
+    ]
+  },
+  "🔮": {
+    "char": "🔮",
+    "keywords": [
+      "ball",
+      "crystal",
+      "fairy tale",
+      "fantasy",
+      "fortune",
+      "tool"
+    ]
+  },
+  "🛒": {
+    "char": "🛒",
+    "keywords": [
+      "cart",
+      "shopping",
+      "trolley"
+    ]
+  },
+  "🏧": {
+    "char": "🏧",
+    "keywords": [
+      "atm",
+      "automated",
+      "bank",
+      "teller"
+    ]
+  },
+  "🚮": {
+    "char": "🚮",
+    "keywords": [
+      "litter",
+      "litter bin"
+    ]
+  },
+  "🚰": {
+    "char": "🚰",
+    "keywords": [
+      "drinking",
+      "potable",
+      "water"
+    ]
+  },
+  "♿": {
+    "char": "♿",
+    "keywords": [
+      "access"
+    ]
+  },
+  "🚹": {
+    "char": "🚹",
+    "keywords": [
+      "lavatory",
+      "man",
+      "restroom",
+      "wc"
+    ]
+  },
+  "🚺": {
+    "char": "🚺",
+    "keywords": [
+      "lavatory",
+      "restroom",
+      "wc",
+      "woman"
+    ]
+  },
+  "🚻": {
+    "char": "🚻",
+    "keywords": [
+      "lavatory",
+      "restroom",
+      "WC"
+    ]
+  },
+  "🚼": {
+    "char": "🚼",
+    "keywords": [
+      "baby",
+      "changing"
+    ]
+  },
+  "🚾": {
+    "char": "🚾",
+    "keywords": [
+      "closet",
+      "lavatory",
+      "restroom",
+      "water",
+      "wc"
+    ]
+  },
+  "🛂": {
+    "char": "🛂",
+    "keywords": [
+      "control",
+      "passport"
+    ]
+  },
+  "🛃": {
+    "char": "🛃",
+    "keywords": [
+      "customs"
+    ]
+  },
+  "🛄": {
+    "char": "🛄",
+    "keywords": [
+      "baggage",
+      "claim"
+    ]
+  },
+  "🛅": {
+    "char": "🛅",
+    "keywords": [
+      "baggage",
+      "locker",
+      "luggage"
+    ]
+  },
+  "⚠": {
+    "char": "⚠",
+    "keywords": [
+      "warning"
+    ]
+  },
+  "🚸": {
+    "char": "🚸",
+    "keywords": [
+      "child",
+      "crossing",
+      "pedestrian",
+      "traffic"
+    ]
+  },
+  "⛔": {
+    "char": "⛔",
+    "keywords": [
+      "entry",
+      "forbidden",
+      "no",
+      "not",
+      "prohibited",
+      "traffic"
+    ]
+  },
+  "🚫": {
+    "char": "🚫",
+    "keywords": [
+      "entry",
+      "forbidden",
+      "no",
+      "not"
+    ]
+  },
+  "🚳": {
+    "char": "🚳",
+    "keywords": [
+      "bicycle",
+      "bike",
+      "forbidden",
+      "no",
+      "not",
+      "prohibited"
+    ]
+  },
+  "🚭": {
+    "char": "🚭",
+    "keywords": [
+      "forbidden",
+      "no",
+      "not",
+      "prohibited",
+      "smoking"
+    ]
+  },
+  "🚯": {
+    "char": "🚯",
+    "keywords": [
+      "forbidden",
+      "litter",
+      "no",
+      "not",
+      "prohibited"
+    ]
+  },
+  "🚱": {
+    "char": "🚱",
+    "keywords": [
+      "non-drinking",
+      "non-potable",
+      "water"
+    ]
+  },
+  "🚷": {
+    "char": "🚷",
+    "keywords": [
+      "forbidden",
+      "no",
+      "not",
+      "pedestrian",
+      "prohibited"
+    ]
+  },
+  "📵": {
+    "char": "📵",
+    "keywords": [
+      "cell",
+      "forbidden",
+      "mobile",
+      "no",
+      "not",
+      "phone",
+      "prohibited",
+      "telephone"
+    ]
+  },
+  "🔞": {
+    "char": "🔞",
+    "keywords": [
+      "18",
+      "age restriction",
+      "eighteen",
+      "forbidden",
+      "no",
+      "not",
+      "prohibited",
+      "underage"
+    ]
+  },
+  "☢": {
+    "char": "☢",
+    "keywords": [
+      "radioactive",
+      "sign"
+    ]
+  },
+  "☣": {
+    "char": "☣",
+    "keywords": [
+      "biohazard",
+      "sign"
+    ]
+  },
+  "⬆": {
+    "char": "⬆",
+    "keywords": [
+      "arrow",
+      "cardinal",
+      "direction",
+      "north"
+    ]
+  },
+  "↗": {
+    "char": "↗",
+    "keywords": [
+      "arrow",
+      "direction",
+      "intercardinal",
+      "northeast"
+    ]
+  },
+  "➡": {
+    "char": "➡",
+    "keywords": [
+      "arrow",
+      "cardinal",
+      "direction",
+      "east"
+    ]
+  },
+  "↘": {
+    "char": "↘",
+    "keywords": [
+      "arrow",
+      "direction",
+      "intercardinal",
+      "southeast"
+    ]
+  },
+  "⬇": {
+    "char": "⬇",
+    "keywords": [
+      "arrow",
+      "cardinal",
+      "direction",
+      "down",
+      "south"
+    ]
+  },
+  "↙": {
+    "char": "↙",
+    "keywords": [
+      "arrow",
+      "direction",
+      "intercardinal",
+      "southwest"
+    ]
+  },
+  "⬅": {
+    "char": "⬅",
+    "keywords": [
+      "arrow",
+      "cardinal",
+      "direction",
+      "west"
+    ]
+  },
+  "↖": {
+    "char": "↖",
+    "keywords": [
+      "arrow",
+      "direction",
+      "intercardinal",
+      "northwest"
+    ]
+  },
+  "↕": {
+    "char": "↕",
+    "keywords": [
+      "arrow"
+    ]
+  },
+  "↔": {
+    "char": "↔",
+    "keywords": [
+      "arrow"
+    ]
+  },
+  "↩": {
+    "char": "↩",
+    "keywords": [
+      "arrow"
+    ]
+  },
+  "↪": {
+    "char": "↪",
+    "keywords": [
+      "arrow"
+    ]
+  },
+  "⤴": {
+    "char": "⤴",
+    "keywords": [
+      "arrow"
+    ]
+  },
+  "⤵": {
+    "char": "⤵",
+    "keywords": [
+      "arrow",
+      "down"
+    ]
+  },
+  "🔃": {
+    "char": "🔃",
+    "keywords": [
+      "arrow",
+      "clockwise",
+      "reload"
+    ]
+  },
+  "🔄": {
+    "char": "🔄",
+    "keywords": [
+      "anticlockwise",
+      "arrow",
+      "counterclockwise",
+      "withershins"
+    ]
+  },
+  "🔙": {
+    "char": "🔙",
+    "keywords": [
+      "arrow",
+      "back"
+    ]
+  },
+  "🔚": {
+    "char": "🔚",
+    "keywords": [
+      "arrow",
+      "end"
+    ]
+  },
+  "🔛": {
+    "char": "🔛",
+    "keywords": [
+      "arrow",
+      "mark",
+      "on"
+    ]
+  },
+  "🔜": {
+    "char": "🔜",
+    "keywords": [
+      "arrow",
+      "soon"
+    ]
+  },
+  "🔝": {
+    "char": "🔝",
+    "keywords": [
+      "arrow",
+      "top",
+      "up"
+    ]
+  },
+  "🛐": {
+    "char": "🛐",
+    "keywords": [
+      "religion",
+      "worship"
+    ]
+  },
+  "⚛": {
+    "char": "⚛",
+    "keywords": [
+      "atheist",
+      "atom"
+    ]
+  },
+  "🕉": {
+    "char": "🕉",
+    "keywords": [
+      "Hindu",
+      "religion"
+    ]
+  },
+  "✡": {
+    "char": "✡",
+    "keywords": [
+      "David",
+      "Jew",
+      "Jewish",
+      "religion",
+      "star"
+    ]
+  },
+  "☸": {
+    "char": "☸",
+    "keywords": [
+      "Buddhist",
+      "dharma",
+      "religion",
+      "wheel"
+    ]
+  },
+  "☯": {
+    "char": "☯",
+    "keywords": [
+      "religion",
+      "tao",
+      "taoist",
+      "yang",
+      "yin"
+    ]
+  },
+  "✝": {
+    "char": "✝",
+    "keywords": [
+      "Christian",
+      "cross",
+      "religion"
+    ]
+  },
+  "☦": {
+    "char": "☦",
+    "keywords": [
+      "Christian",
+      "cross",
+      "religion"
+    ]
+  },
+  "☪": {
+    "char": "☪",
+    "keywords": [
+      "islam",
+      "Muslim",
+      "religion"
+    ]
+  },
+  "☮": {
+    "char": "☮",
+    "keywords": [
+      "peace"
+    ]
+  },
+  "🕎": {
+    "char": "🕎",
+    "keywords": [
+      "candelabrum",
+      "candlestick",
+      "religion"
+    ]
+  },
+  "🔯": {
+    "char": "🔯",
+    "keywords": [
+      "fortune",
+      "star"
+    ]
+  },
+  "♈": {
+    "char": "♈",
+    "keywords": [
+      "ram",
+      "zodiac"
+    ]
+  },
+  "♉": {
+    "char": "♉",
+    "keywords": [
+      "bull",
+      "ox",
+      "zodiac"
+    ]
+  },
+  "♊": {
+    "char": "♊",
+    "keywords": [
+      "twins",
+      "zodiac"
+    ]
+  },
+  "♋": {
+    "char": "♋",
+    "keywords": [
+      "crab",
+      "zodiac"
+    ]
+  },
+  "♌": {
+    "char": "♌",
+    "keywords": [
+      "lion",
+      "zodiac"
+    ]
+  },
+  "♍": {
+    "char": "♍",
+    "keywords": [
+      "zodiac"
+    ]
+  },
+  "♎": {
+    "char": "♎",
+    "keywords": [
+      "balance",
+      "justice",
+      "scales",
+      "zodiac"
+    ]
+  },
+  "♏": {
+    "char": "♏",
+    "keywords": [
+      "scorpio",
+      "scorpion",
+      "zodiac"
+    ]
+  },
+  "♐": {
+    "char": "♐",
+    "keywords": [
+      "archer",
+      "zodiac"
+    ]
+  },
+  "♑": {
+    "char": "♑",
+    "keywords": [
+      "goat",
+      "zodiac"
+    ]
+  },
+  "♒": {
+    "char": "♒",
+    "keywords": [
+      "bearer",
+      "water",
+      "zodiac"
+    ]
+  },
+  "♓": {
+    "char": "♓",
+    "keywords": [
+      "fish",
+      "zodiac"
+    ]
+  },
+  "⛎": {
+    "char": "⛎",
+    "keywords": [
+      "bearer",
+      "serpent",
+      "snake",
+      "zodiac"
+    ]
+  },
+  "🔀": {
+    "char": "🔀",
+    "keywords": [
+      "arrow",
+      "crossed"
+    ]
+  },
+  "🔁": {
+    "char": "🔁",
+    "keywords": [
+      "arrow",
+      "clockwise",
+      "repeat"
+    ]
+  },
+  "🔂": {
+    "char": "🔂",
+    "keywords": [
+      "arrow",
+      "clockwise",
+      "once"
+    ]
+  },
+  "▶": {
+    "char": "▶",
+    "keywords": [
+      "arrow",
+      "play",
+      "right",
+      "triangle"
+    ]
+  },
+  "⏩": {
+    "char": "⏩",
+    "keywords": [
+      "arrow",
+      "double",
+      "fast",
+      "forward"
+    ]
+  },
+  "⏭": {
+    "char": "⏭",
+    "keywords": [
+      "arrow",
+      "next scene",
+      "next track",
+      "triangle"
+    ]
+  },
+  "⏯": {
+    "char": "⏯",
+    "keywords": [
+      "arrow",
+      "pause",
+      "play",
+      "right",
+      "triangle"
+    ]
+  },
+  "◀": {
+    "char": "◀",
+    "keywords": [
+      "arrow",
+      "left",
+      "reverse",
+      "triangle"
+    ]
+  },
+  "⏪": {
+    "char": "⏪",
+    "keywords": [
+      "arrow",
+      "double",
+      "rewind"
+    ]
+  },
+  "⏮": {
+    "char": "⏮",
+    "keywords": [
+      "arrow",
+      "previous scene",
+      "previous track",
+      "triangle"
+    ]
+  },
+  "🔼": {
+    "char": "🔼",
+    "keywords": [
+      "arrow",
+      "button",
+      "red"
+    ]
+  },
+  "⏫": {
+    "char": "⏫",
+    "keywords": [
+      "arrow",
+      "double"
+    ]
+  },
+  "🔽": {
+    "char": "🔽",
+    "keywords": [
+      "arrow",
+      "button",
+      "down",
+      "red"
+    ]
+  },
+  "⏬": {
+    "char": "⏬",
+    "keywords": [
+      "arrow",
+      "double",
+      "down"
+    ]
+  },
+  "⏸": {
+    "char": "⏸",
+    "keywords": [
+      "bar",
+      "double",
+      "pause",
+      "vertical"
+    ]
+  },
+  "⏹": {
+    "char": "⏹",
+    "keywords": [
+      "square",
+      "stop"
+    ]
+  },
+  "⏺": {
+    "char": "⏺",
+    "keywords": [
+      "circle",
+      "record"
+    ]
+  },
+  "⏏": {
+    "char": "⏏",
+    "keywords": [
+      "eject"
+    ]
+  },
+  "🎦": {
+    "char": "🎦",
+    "keywords": [
+      "camera",
+      "film",
+      "movie"
+    ]
+  },
+  "🔅": {
+    "char": "🔅",
+    "keywords": [
+      "brightness",
+      "dim",
+      "low"
+    ]
+  },
+  "🔆": {
+    "char": "🔆",
+    "keywords": [
+      "bright",
+      "brightness"
+    ]
+  },
+  "📶": {
+    "char": "📶",
+    "keywords": [
+      "antenna",
+      "bar",
+      "cell",
+      "mobile",
+      "phone",
+      "signal",
+      "telephone"
+    ]
+  },
+  "📳": {
+    "char": "📳",
+    "keywords": [
+      "cell",
+      "mobile",
+      "mode",
+      "phone",
+      "telephone",
+      "vibration"
+    ]
+  },
+  "📴": {
+    "char": "📴",
+    "keywords": [
+      "cell",
+      "mobile",
+      "off",
+      "phone",
+      "telephone"
+    ]
+  },
+  "♻": {
+    "char": "♻",
+    "keywords": [
+      "recycle"
+    ]
+  },
+  "📛": {
+    "char": "📛",
+    "keywords": [
+      "badge",
+      "name"
+    ]
+  },
+  "⚜": {
+    "char": "⚜",
+    "keywords": [
+      "fleur-de-lis"
+    ]
+  },
+  "🔰": {
+    "char": "🔰",
+    "keywords": [
+      "beginner",
+      "chevron",
+      "green",
+      "Japanese",
+      "leaf",
+      "tool",
+      "yellow"
+    ]
+  },
+  "🔱": {
+    "char": "🔱",
+    "keywords": [
+      "anchor",
+      "emblem",
+      "ship",
+      "tool",
+      "trident"
+    ]
+  },
+  "⭕": {
+    "char": "⭕",
+    "keywords": [
+      "circle",
+      "o"
+    ]
+  },
+  "✅": {
+    "char": "✅",
+    "keywords": [
+      "check",
+      "mark"
+    ]
+  },
+  "☑": {
+    "char": "☑",
+    "keywords": [
+      "ballot",
+      "box",
+      "check"
+    ]
+  },
+  "✔": {
+    "char": "✔",
+    "keywords": [
+      "check",
+      "mark"
+    ]
+  },
+  "✖": {
+    "char": "✖",
+    "keywords": [
+      "cancel",
+      "multiplication",
+      "multiply",
+      "x"
+    ]
+  },
+  "❌": {
+    "char": "❌",
+    "keywords": [
+      "cancel",
+      "mark",
+      "multiplication",
+      "multiply",
+      "x"
+    ]
+  },
+  "❎": {
+    "char": "❎",
+    "keywords": [
+      "mark",
+      "square"
+    ]
+  },
+  "➕": {
+    "char": "➕",
+    "keywords": [
+      "math",
+      "plus"
+    ]
+  },
+  "♀": {
+    "char": "♀",
+    "keywords": [
+      "woman"
+    ]
+  },
+  "♂": {
+    "char": "♂",
+    "keywords": [
+      "man"
+    ]
+  },
+  "⚕": {
+    "char": "⚕",
+    "keywords": [
+      "aesculapius",
+      "medicine",
+      "staff"
+    ]
+  },
+  "➖": {
+    "char": "➖",
+    "keywords": [
+      "math",
+      "minus"
+    ]
+  },
+  "➗": {
+    "char": "➗",
+    "keywords": [
+      "division",
+      "math"
+    ]
+  },
+  "➰": {
+    "char": "➰",
+    "keywords": [
+      "curl",
+      "loop"
+    ]
+  },
+  "➿": {
+    "char": "➿",
+    "keywords": [
+      "curl",
+      "double",
+      "loop"
+    ]
+  },
+  "〽": {
+    "char": "〽",
+    "keywords": [
+      "mark",
+      "part"
+    ]
+  },
+  "✳": {
+    "char": "✳",
+    "keywords": [
+      "asterisk"
+    ]
+  },
+  "✴": {
+    "char": "✴",
+    "keywords": [
+      "star"
+    ]
+  },
+  "❇": {
+    "char": "❇",
+    "keywords": [
+      "sparkle"
+    ]
+  },
+  "‼": {
+    "char": "‼",
+    "keywords": [
+      "bangbang",
+      "exclamation",
+      "mark",
+      "punctuation"
+    ]
+  },
+  "⁉": {
+    "char": "⁉",
+    "keywords": [
+      "exclamation",
+      "interrobang",
+      "mark",
+      "punctuation",
+      "question"
+    ]
+  },
+  "❓": {
+    "char": "❓",
+    "keywords": [
+      "mark",
+      "punctuation",
+      "question"
+    ]
+  },
+  "❔": {
+    "char": "❔",
+    "keywords": [
+      "mark",
+      "outlined",
+      "punctuation",
+      "question"
+    ]
+  },
+  "❕": {
+    "char": "❕",
+    "keywords": [
+      "exclamation",
+      "mark",
+      "outlined",
+      "punctuation"
+    ]
+  },
+  "❗": {
+    "char": "❗",
+    "keywords": [
+      "exclamation",
+      "mark",
+      "punctuation"
+    ]
+  },
+  "〰": {
+    "char": "〰",
+    "keywords": [
+      "dash",
+      "punctuation",
+      "wavy"
+    ]
+  },
+  "©": {
+    "char": "©",
+    "keywords": [
+      "copyright"
+    ]
+  },
+  "®": {
+    "char": "®",
+    "keywords": [
+      "registered"
+    ]
+  },
+  "™": {
+    "char": "™",
+    "keywords": [
+      "mark",
+      "tm",
+      "trademark"
+    ]
+  },
+  "#️⃣": {
+    "char": "#️⃣",
+    "keywords": [
+      "keycap"
+    ]
+  },
+  "*️⃣": {
+    "char": "*️⃣",
+    "keywords": [
+      "keycap"
+    ]
+  },
+  "0️⃣": {
+    "char": "0️⃣",
+    "keywords": [
+      "keycap"
+    ]
+  },
+  "1️⃣": {
+    "char": "1️⃣",
+    "keywords": [
+      "keycap"
+    ]
+  },
+  "2️⃣": {
+    "char": "2️⃣",
+    "keywords": [
+      "keycap"
+    ]
+  },
+  "3️⃣": {
+    "char": "3️⃣",
+    "keywords": [
+      "keycap"
+    ]
+  },
+  "4️⃣": {
+    "char": "4️⃣",
+    "keywords": [
+      "keycap"
+    ]
+  },
+  "5️⃣": {
+    "char": "5️⃣",
+    "keywords": [
+      "keycap"
+    ]
+  },
+  "6️⃣": {
+    "char": "6️⃣",
+    "keywords": [
+      "keycap"
+    ]
+  },
+  "7️⃣": {
+    "char": "7️⃣",
+    "keywords": [
+      "keycap"
+    ]
+  },
+  "8️⃣": {
+    "char": "8️⃣",
+    "keywords": [
+      "keycap"
+    ]
+  },
+  "9️⃣": {
+    "char": "9️⃣",
+    "keywords": [
+      "keycap"
+    ]
+  },
+  "🔟": {
+    "char": "🔟",
+    "keywords": [
+      "keycap 10"
+    ]
+  },
+  "💯": {
+    "char": "💯",
+    "keywords": [
+      "100",
+      "full",
+      "hundred",
+      "score"
+    ]
+  },
+  "🔠": {
+    "char": "🔠",
+    "keywords": [
+      "ABCD",
+      "input",
+      "latin",
+      "letters",
+      "uppercase"
+    ]
+  },
+  "🔡": {
+    "char": "🔡",
+    "keywords": [
+      "abcd",
+      "input",
+      "latin",
+      "letters",
+      "lowercase"
+    ]
+  },
+  "🔢": {
+    "char": "🔢",
+    "keywords": [
+      "1234",
+      "input",
+      "numbers"
+    ]
+  },
+  "🔣": {
+    "char": "🔣",
+    "keywords": [
+      "〒♪&%",
+      "input"
+    ]
+  },
+  "🔤": {
+    "char": "🔤",
+    "keywords": [
+      "abc",
+      "alphabet",
+      "input",
+      "latin",
+      "letters"
+    ]
+  },
+  "🅰": {
+    "char": "🅰",
+    "keywords": [
+      "a",
+      "blood type"
+    ]
+  },
+  "🆎": {
+    "char": "🆎",
+    "keywords": [
+      "ab",
+      "blood type"
+    ]
+  },
+  "🅱": {
+    "char": "🅱",
+    "keywords": [
+      "b",
+      "blood type"
+    ]
+  },
+  "🆑": {
+    "char": "🆑",
+    "keywords": [
+      "cl"
+    ]
+  },
+  "🆒": {
+    "char": "🆒",
+    "keywords": [
+      "cool"
+    ]
+  },
+  "🆓": {
+    "char": "🆓",
+    "keywords": [
+      "free"
+    ]
+  },
+  "ℹ": {
+    "char": "ℹ",
+    "keywords": [
+      "i",
+      "information"
+    ]
+  },
+  "🆔": {
+    "char": "🆔",
+    "keywords": [
+      "id",
+      "identity"
+    ]
+  },
+  "Ⓜ": {
+    "char": "Ⓜ",
+    "keywords": [
+      "circle",
+      "m"
+    ]
+  },
+  "🆕": {
+    "char": "🆕",
+    "keywords": [
+      "new"
+    ]
+  },
+  "🆖": {
+    "char": "🆖",
+    "keywords": [
+      "ng"
+    ]
+  },
+  "🅾": {
+    "char": "🅾",
+    "keywords": [
+      "blood type",
+      "o"
+    ]
+  },
+  "🆗": {
+    "char": "🆗",
+    "keywords": [
+      "OK"
+    ]
+  },
+  "🅿": {
+    "char": "🅿",
+    "keywords": [
+      "parking"
+    ]
+  },
+  "🆘": {
+    "char": "🆘",
+    "keywords": [
+      "help",
+      "sos"
+    ]
+  },
+  "🆙": {
+    "char": "🆙",
+    "keywords": [
+      "mark",
+      "up"
+    ]
+  },
+  "🆚": {
+    "char": "🆚",
+    "keywords": [
+      "versus",
+      "vs"
+    ]
+  },
+  "🈁": {
+    "char": "🈁",
+    "keywords": [
+      "“here”",
+      "Japanese",
+      "katakana",
+      "ココ"
+    ]
+  },
+  "🈂": {
+    "char": "🈂",
+    "keywords": [
+      "“service charge”",
+      "Japanese",
+      "katakana",
+      "サ"
+    ]
+  },
+  "🈷": {
+    "char": "🈷",
+    "keywords": [
+      "“monthly amount”",
+      "ideograph",
+      "Japanese",
+      "月"
+    ]
+  },
+  "🈶": {
+    "char": "🈶",
+    "keywords": [
+      "“not free of charge”",
+      "ideograph",
+      "Japanese",
+      "有"
+    ]
+  },
+  "🈯": {
+    "char": "🈯",
+    "keywords": [
+      "“reserved”",
+      "ideograph",
+      "Japanese",
+      "指"
+    ]
+  },
+  "🉐": {
+    "char": "🉐",
+    "keywords": [
+      "“bargain”",
+      "ideograph",
+      "Japanese",
+      "得"
+    ]
+  },
+  "🈹": {
+    "char": "🈹",
+    "keywords": [
+      "“discount”",
+      "ideograph",
+      "Japanese",
+      "割"
+    ]
+  },
+  "🈚": {
+    "char": "🈚",
+    "keywords": [
+      "“free of charge”",
+      "ideograph",
+      "Japanese",
+      "無"
+    ]
+  },
+  "🈲": {
+    "char": "🈲",
+    "keywords": [
+      "“prohibited”",
+      "ideograph",
+      "Japanese",
+      "禁"
+    ]
+  },
+  "🉑": {
+    "char": "🉑",
+    "keywords": [
+      "“acceptable”",
+      "ideograph",
+      "Japanese",
+      "可"
+    ]
+  },
+  "🈸": {
+    "char": "🈸",
+    "keywords": [
+      "“application”",
+      "ideograph",
+      "Japanese",
+      "申"
+    ]
+  },
+  "🈴": {
+    "char": "🈴",
+    "keywords": [
+      "“passing grade”",
+      "ideograph",
+      "Japanese",
+      "合"
+    ]
+  },
+  "🈳": {
+    "char": "🈳",
+    "keywords": [
+      "“vacancy”",
+      "ideograph",
+      "Japanese",
+      "空"
+    ]
+  },
+  "㊗": {
+    "char": "㊗",
+    "keywords": [
+      "“congratulations”",
+      "ideograph",
+      "Japanese",
+      "祝"
+    ]
+  },
+  "㊙": {
+    "char": "㊙",
+    "keywords": [
+      "“secret”",
+      "ideograph",
+      "Japanese",
+      "秘"
+    ]
+  },
+  "🈺": {
+    "char": "🈺",
+    "keywords": [
+      "“open for business”",
+      "ideograph",
+      "Japanese",
+      "営"
+    ]
+  },
+  "🈵": {
+    "char": "🈵",
+    "keywords": [
+      "“no vacancy”",
+      "ideograph",
+      "Japanese",
+      "満"
+    ]
+  },
+  "▪": {
+    "char": "▪",
+    "keywords": [
+      "geometric",
+      "square"
+    ]
+  },
+  "▫": {
+    "char": "▫",
+    "keywords": [
+      "geometric",
+      "square"
+    ]
+  },
+  "◻": {
+    "char": "◻",
+    "keywords": [
+      "geometric",
+      "square"
+    ]
+  },
+  "◼": {
+    "char": "◼",
+    "keywords": [
+      "geometric",
+      "square"
+    ]
+  },
+  "◽": {
+    "char": "◽",
+    "keywords": [
+      "geometric",
+      "square"
+    ]
+  },
+  "◾": {
+    "char": "◾",
+    "keywords": [
+      "geometric",
+      "square"
+    ]
+  },
+  "⬛": {
+    "char": "⬛",
+    "keywords": [
+      "geometric",
+      "square"
+    ]
+  },
+  "⬜": {
+    "char": "⬜",
+    "keywords": [
+      "geometric",
+      "square"
+    ]
+  },
+  "🔶": {
+    "char": "🔶",
+    "keywords": [
+      "diamond",
+      "geometric",
+      "orange"
+    ]
+  },
+  "🔷": {
+    "char": "🔷",
+    "keywords": [
+      "blue",
+      "diamond",
+      "geometric"
+    ]
+  },
+  "🔸": {
+    "char": "🔸",
+    "keywords": [
+      "diamond",
+      "geometric",
+      "orange"
+    ]
+  },
+  "🔹": {
+    "char": "🔹",
+    "keywords": [
+      "blue",
+      "diamond",
+      "geometric"
+    ]
+  },
+  "🔺": {
+    "char": "🔺",
+    "keywords": [
+      "geometric",
+      "red"
+    ]
+  },
+  "🔻": {
+    "char": "🔻",
+    "keywords": [
+      "down",
+      "geometric",
+      "red"
+    ]
+  },
+  "💠": {
+    "char": "💠",
+    "keywords": [
+      "comic",
+      "diamond",
+      "geometric",
+      "inside"
+    ]
+  },
+  "🔘": {
+    "char": "🔘",
+    "keywords": [
+      "button",
+      "geometric",
+      "radio"
+    ]
+  },
+  "🔲": {
+    "char": "🔲",
+    "keywords": [
+      "button",
+      "geometric",
+      "square"
+    ]
+  },
+  "🔳": {
+    "char": "🔳",
+    "keywords": [
+      "button",
+      "geometric",
+      "outlined",
+      "square"
+    ]
+  },
+  "⚪": {
+    "char": "⚪",
+    "keywords": [
+      "circle",
+      "geometric"
+    ]
+  },
+  "⚫": {
+    "char": "⚫",
+    "keywords": [
+      "circle",
+      "geometric"
+    ]
+  },
+  "🔴": {
+    "char": "🔴",
+    "keywords": [
+      "circle",
+      "geometric",
+      "red"
+    ]
+  },
+  "🔵": {
+    "char": "🔵",
+    "keywords": [
+      "blue",
+      "circle",
+      "geometric"
+    ]
+  },
+  "🏁": {
+    "char": "🏁",
+    "keywords": [
+      "checkered",
+      "chequered",
+      "racing"
+    ]
+  },
+  "🚩": {
+    "char": "🚩",
+    "keywords": [
+      "post"
+    ]
+  },
+  "🎌": {
+    "char": "🎌",
+    "keywords": [
+      "celebration",
+      "cross",
+      "crossed",
+      "Japanese"
+    ]
+  },
+  "🏴": {
+    "char": "🏴",
+    "keywords": [
+      "waving"
+    ]
+  },
+  "🏳": {
+    "char": "🏳",
+    "keywords": [
+      "waving"
+    ]
+  },
+  "🏳️‍🌈": {
+    "char": "🏳️‍🌈",
+    "keywords": [
+      "rainbow"
+    ]
+  },
+  "🇦🇨": {
+    "char": "🇦🇨",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇦🇩": {
+    "char": "🇦🇩",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇦🇪": {
+    "char": "🇦🇪",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇦🇫": {
+    "char": "🇦🇫",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇦🇬": {
+    "char": "🇦🇬",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇦🇮": {
+    "char": "🇦🇮",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇦🇱": {
+    "char": "🇦🇱",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇦🇲": {
+    "char": "🇦🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇦🇴": {
+    "char": "🇦🇴",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇦🇶": {
+    "char": "🇦🇶",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇦🇷": {
+    "char": "🇦🇷",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇦🇸": {
+    "char": "🇦🇸",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇦🇹": {
+    "char": "🇦🇹",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇦🇺": {
+    "char": "🇦🇺",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇦🇼": {
+    "char": "🇦🇼",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇦🇽": {
+    "char": "🇦🇽",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇦🇿": {
+    "char": "🇦🇿",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇦": {
+    "char": "🇧🇦",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇧": {
+    "char": "🇧🇧",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇩": {
+    "char": "🇧🇩",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇪": {
+    "char": "🇧🇪",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇫": {
+    "char": "🇧🇫",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇬": {
+    "char": "🇧🇬",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇭": {
+    "char": "🇧🇭",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇮": {
+    "char": "🇧🇮",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇯": {
+    "char": "🇧🇯",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇱": {
+    "char": "🇧🇱",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇲": {
+    "char": "🇧🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇳": {
+    "char": "🇧🇳",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇴": {
+    "char": "🇧🇴",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇶": {
+    "char": "🇧🇶",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇷": {
+    "char": "🇧🇷",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇸": {
+    "char": "🇧🇸",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇹": {
+    "char": "🇧🇹",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇻": {
+    "char": "🇧🇻",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇼": {
+    "char": "🇧🇼",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇾": {
+    "char": "🇧🇾",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇧🇿": {
+    "char": "🇧🇿",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇦": {
+    "char": "🇨🇦",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇨": {
+    "char": "🇨🇨",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇩": {
+    "char": "🇨🇩",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇫": {
+    "char": "🇨🇫",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇬": {
+    "char": "🇨🇬",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇭": {
+    "char": "🇨🇭",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇮": {
+    "char": "🇨🇮",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇰": {
+    "char": "🇨🇰",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇱": {
+    "char": "🇨🇱",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇲": {
+    "char": "🇨🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇳": {
+    "char": "🇨🇳",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇴": {
+    "char": "🇨🇴",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇵": {
+    "char": "🇨🇵",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇷": {
+    "char": "🇨🇷",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇺": {
+    "char": "🇨🇺",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇻": {
+    "char": "🇨🇻",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇼": {
+    "char": "🇨🇼",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇽": {
+    "char": "🇨🇽",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇾": {
+    "char": "🇨🇾",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇨🇿": {
+    "char": "🇨🇿",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇩🇪": {
+    "char": "🇩🇪",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇩🇬": {
+    "char": "🇩🇬",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇩🇯": {
+    "char": "🇩🇯",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇩🇰": {
+    "char": "🇩🇰",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇩🇲": {
+    "char": "🇩🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇩🇴": {
+    "char": "🇩🇴",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇩🇿": {
+    "char": "🇩🇿",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇪🇦": {
+    "char": "🇪🇦",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇪🇨": {
+    "char": "🇪🇨",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇪🇪": {
+    "char": "🇪🇪",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇪🇬": {
+    "char": "🇪🇬",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇪🇭": {
+    "char": "🇪🇭",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇪🇷": {
+    "char": "🇪🇷",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇪🇸": {
+    "char": "🇪🇸",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇪🇹": {
+    "char": "🇪🇹",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇪🇺": {
+    "char": "🇪🇺",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇫🇮": {
+    "char": "🇫🇮",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇫🇯": {
+    "char": "🇫🇯",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇫🇰": {
+    "char": "🇫🇰",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇫🇲": {
+    "char": "🇫🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇫🇴": {
+    "char": "🇫🇴",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇫🇷": {
+    "char": "🇫🇷",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇦": {
+    "char": "🇬🇦",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇧": {
+    "char": "🇬🇧",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇩": {
+    "char": "🇬🇩",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇪": {
+    "char": "🇬🇪",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇫": {
+    "char": "🇬🇫",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇬": {
+    "char": "🇬🇬",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇭": {
+    "char": "🇬🇭",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇮": {
+    "char": "🇬🇮",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇱": {
+    "char": "🇬🇱",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇲": {
+    "char": "🇬🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇳": {
+    "char": "🇬🇳",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇵": {
+    "char": "🇬🇵",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇶": {
+    "char": "🇬🇶",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇷": {
+    "char": "🇬🇷",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇸": {
+    "char": "🇬🇸",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇹": {
+    "char": "🇬🇹",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇺": {
+    "char": "🇬🇺",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇼": {
+    "char": "🇬🇼",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇬🇾": {
+    "char": "🇬🇾",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇭🇰": {
+    "char": "🇭🇰",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇭🇲": {
+    "char": "🇭🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇭🇳": {
+    "char": "🇭🇳",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇭🇷": {
+    "char": "🇭🇷",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇭🇹": {
+    "char": "🇭🇹",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇭🇺": {
+    "char": "🇭🇺",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇮🇨": {
+    "char": "🇮🇨",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇮🇩": {
+    "char": "🇮🇩",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇮🇪": {
+    "char": "🇮🇪",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇮🇱": {
+    "char": "🇮🇱",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇮🇲": {
+    "char": "🇮🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇮🇳": {
+    "char": "🇮🇳",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇮🇴": {
+    "char": "🇮🇴",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇮🇶": {
+    "char": "🇮🇶",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇮🇷": {
+    "char": "🇮🇷",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇮🇸": {
+    "char": "🇮🇸",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇮🇹": {
+    "char": "🇮🇹",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇯🇪": {
+    "char": "🇯🇪",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇯🇲": {
+    "char": "🇯🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇯🇴": {
+    "char": "🇯🇴",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇯🇵": {
+    "char": "🇯🇵",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇰🇪": {
+    "char": "🇰🇪",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇰🇬": {
+    "char": "🇰🇬",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇰🇭": {
+    "char": "🇰🇭",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇰🇮": {
+    "char": "🇰🇮",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇰🇲": {
+    "char": "🇰🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇰🇳": {
+    "char": "🇰🇳",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇰🇵": {
+    "char": "🇰🇵",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇰🇷": {
+    "char": "🇰🇷",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇰🇼": {
+    "char": "🇰🇼",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇰🇾": {
+    "char": "🇰🇾",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇰🇿": {
+    "char": "🇰🇿",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇱🇦": {
+    "char": "🇱🇦",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇱🇧": {
+    "char": "🇱🇧",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇱🇨": {
+    "char": "🇱🇨",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇱🇮": {
+    "char": "🇱🇮",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇱🇰": {
+    "char": "🇱🇰",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇱🇷": {
+    "char": "🇱🇷",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇱🇸": {
+    "char": "🇱🇸",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇱🇹": {
+    "char": "🇱🇹",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇱🇺": {
+    "char": "🇱🇺",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇱🇻": {
+    "char": "🇱🇻",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇱🇾": {
+    "char": "🇱🇾",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇦": {
+    "char": "🇲🇦",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇨": {
+    "char": "🇲🇨",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇩": {
+    "char": "🇲🇩",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇪": {
+    "char": "🇲🇪",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇫": {
+    "char": "🇲🇫",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇬": {
+    "char": "🇲🇬",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇭": {
+    "char": "🇲🇭",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇰": {
+    "char": "🇲🇰",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇱": {
+    "char": "🇲🇱",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇲": {
+    "char": "🇲🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇳": {
+    "char": "🇲🇳",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇴": {
+    "char": "🇲🇴",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇵": {
+    "char": "🇲🇵",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇶": {
+    "char": "🇲🇶",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇷": {
+    "char": "🇲🇷",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇸": {
+    "char": "🇲🇸",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇹": {
+    "char": "🇲🇹",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇺": {
+    "char": "🇲🇺",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇻": {
+    "char": "🇲🇻",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇼": {
+    "char": "🇲🇼",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇽": {
+    "char": "🇲🇽",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇾": {
+    "char": "🇲🇾",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇲🇿": {
+    "char": "🇲🇿",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇳🇦": {
+    "char": "🇳🇦",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇳🇨": {
+    "char": "🇳🇨",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇳🇪": {
+    "char": "🇳🇪",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇳🇫": {
+    "char": "🇳🇫",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇳🇬": {
+    "char": "🇳🇬",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇳🇮": {
+    "char": "🇳🇮",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇳🇱": {
+    "char": "🇳🇱",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇳🇴": {
+    "char": "🇳🇴",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇳🇵": {
+    "char": "🇳🇵",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇳🇷": {
+    "char": "🇳🇷",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇳🇺": {
+    "char": "🇳🇺",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇳🇿": {
+    "char": "🇳🇿",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇴🇲": {
+    "char": "🇴🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇵🇦": {
+    "char": "🇵🇦",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇵🇪": {
+    "char": "🇵🇪",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇵🇫": {
+    "char": "🇵🇫",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇵🇬": {
+    "char": "🇵🇬",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇵🇭": {
+    "char": "🇵🇭",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇵🇰": {
+    "char": "🇵🇰",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇵🇱": {
+    "char": "🇵🇱",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇵🇲": {
+    "char": "🇵🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇵🇳": {
+    "char": "🇵🇳",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇵🇷": {
+    "char": "🇵🇷",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇵🇸": {
+    "char": "🇵🇸",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇵🇹": {
+    "char": "🇵🇹",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇵🇼": {
+    "char": "🇵🇼",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇵🇾": {
+    "char": "🇵🇾",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇶🇦": {
+    "char": "🇶🇦",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇷🇪": {
+    "char": "🇷🇪",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇷🇴": {
+    "char": "🇷🇴",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇷🇸": {
+    "char": "🇷🇸",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇷🇺": {
+    "char": "🇷🇺",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇷🇼": {
+    "char": "🇷🇼",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇦": {
+    "char": "🇸🇦",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇧": {
+    "char": "🇸🇧",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇨": {
+    "char": "🇸🇨",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇩": {
+    "char": "🇸🇩",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇪": {
+    "char": "🇸🇪",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇬": {
+    "char": "🇸🇬",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇭": {
+    "char": "🇸🇭",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇮": {
+    "char": "🇸🇮",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇯": {
+    "char": "🇸🇯",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇰": {
+    "char": "🇸🇰",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇱": {
+    "char": "🇸🇱",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇲": {
+    "char": "🇸🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇳": {
+    "char": "🇸🇳",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇴": {
+    "char": "🇸🇴",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇷": {
+    "char": "🇸🇷",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇸": {
+    "char": "🇸🇸",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇹": {
+    "char": "🇸🇹",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇻": {
+    "char": "🇸🇻",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇽": {
+    "char": "🇸🇽",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇾": {
+    "char": "🇸🇾",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇸🇿": {
+    "char": "🇸🇿",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇦": {
+    "char": "🇹🇦",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇨": {
+    "char": "🇹🇨",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇩": {
+    "char": "🇹🇩",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇫": {
+    "char": "🇹🇫",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇬": {
+    "char": "🇹🇬",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇭": {
+    "char": "🇹🇭",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇯": {
+    "char": "🇹🇯",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇰": {
+    "char": "🇹🇰",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇱": {
+    "char": "🇹🇱",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇲": {
+    "char": "🇹🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇳": {
+    "char": "🇹🇳",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇴": {
+    "char": "🇹🇴",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇷": {
+    "char": "🇹🇷",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇹": {
+    "char": "🇹🇹",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇻": {
+    "char": "🇹🇻",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇼": {
+    "char": "🇹🇼",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇹🇿": {
+    "char": "🇹🇿",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇺🇦": {
+    "char": "🇺🇦",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇺🇬": {
+    "char": "🇺🇬",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇺🇲": {
+    "char": "🇺🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇺🇳": {
+    "char": "🇺🇳",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇺🇸": {
+    "char": "🇺🇸",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇺🇾": {
+    "char": "🇺🇾",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇺🇿": {
+    "char": "🇺🇿",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇻🇦": {
+    "char": "🇻🇦",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇻🇨": {
+    "char": "🇻🇨",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇻🇪": {
+    "char": "🇻🇪",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇻🇬": {
+    "char": "🇻🇬",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇻🇮": {
+    "char": "🇻🇮",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇻🇳": {
+    "char": "🇻🇳",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇻🇺": {
+    "char": "🇻🇺",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇼🇫": {
+    "char": "🇼🇫",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇼🇸": {
+    "char": "🇼🇸",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇽🇰": {
+    "char": "🇽🇰",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇾🇪": {
+    "char": "🇾🇪",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇾🇹": {
+    "char": "🇾🇹",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇿🇦": {
+    "char": "🇿🇦",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇿🇲": {
+    "char": "🇿🇲",
+    "keywords": [
+      "flag"
+    ]
+  },
+  "🇿🇼": {
+    "char": "🇿🇼",
+    "keywords": [
+      "flag"
+    ]
+  }
+}
